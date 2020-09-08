@@ -11,7 +11,7 @@ images:
 
 ## What is it?
 
-{% include components/intro.md %}
+Temp
 
 ## Full Feature List
 
