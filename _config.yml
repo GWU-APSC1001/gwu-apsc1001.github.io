@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 # Config for your profile.
 title:            APSC 1001 Class Website
 name:             APSC 1001 Class Website
-avatar:           /theme/img/avatar.jpg
+avatar:           /theme/img/avatar.png
 
 # The theme uses the baseurl throughout, which is useful for running the entire
 # site under a subdir, like for this GitHub Pages deployment as a project site.
