@@ -16,7 +16,7 @@ avatar:           /theme/img/avatar.jpg
 baseurl: ""
 
 # Add a directory to hold misc pages, just to keep the root directory clean.
-include: ["_pages", "_portfolio"]
+include: ["_pages"]
 
 # Wire in the SASS files in the theme directory.
 sass:
@@ -28,10 +28,6 @@ collections:
   assignments:
     output: true
     title: Assignments
-    permalink: /:collection/:name.html
-  portfolio:
-    output: false
-    title: portfolio
     permalink: /:collection/:name.html
 
 defaults:
@@ -45,12 +41,6 @@ defaults:
       path: ""
     values:
       show_profile: true
-  -
-    scope:
-      path: "_portfolio"
-    values:
-      show_profile: false
-      layout: defaults/portfolio
   -
     scope:
       path: "_assignments"
