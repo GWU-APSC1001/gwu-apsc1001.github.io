@@ -1,9 +1,12 @@
 # These pages appear along the navbar at the top
-- title: Home
+- title: Syllabus
   href: index.html
 
-- title: Assignments
-  href: list/assignments.html
+- title: Schedule
+  href: schedule.html
 
-# - title: Gallery
+# - title: Assignments
+#   href: list/assignments.html
+
+  # - title: Gallery
 #   href: gallery.html
