@@ -11,7 +11,7 @@ title: Course Schedule
 | 10/2/20 | Intro to Electrical and Computer Engineering; Python programming | Handling data arrays and plotting data using Python; In-class Lab on APP development / Intro to Final Projects; Student group formation; HW 1
 | 10/9/20 | Fall Break | No class this week |
 | 10/16/20 | Introduction to Civil Engineering; Python programming | Python Guided-project; In-class Lab on APP development / activities |
-| 10/23/20 | SEAS R and D Showcase | No class this week |
+| 10/23/20 | SEAS R&D Showcase | No class this week |
 | 10/30/20 | Introduction to Systems Engineering; Python programming | HW 2; In-class Lab on APP development / activities |
 | 11/6/20 | Introduction to Computer Science | HW 3; In-class Lab / activities | 
 | 11/13/20 | Intro to Mechanical Engineering; Python programming | Nothing due |
