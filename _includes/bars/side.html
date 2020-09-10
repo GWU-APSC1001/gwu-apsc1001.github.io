@@ -17,7 +17,11 @@
 {% endif %}
 
 {% if page.path contains '_assignments' %}
-    {% include components/project-meta.html %}
+    {% include components/assignment-meta.html %}
+{% endif %}
+
+{% if page.path contains '_labs' %}
+    {% include components/lab-meta.html %}
 {% endif %}
 
 {% if page.path contains '_posts' %}
