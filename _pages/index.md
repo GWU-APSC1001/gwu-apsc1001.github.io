@@ -11,7 +11,7 @@ title: Syllabus
 ### Course Meeting Information
 - Course: APSC 1001, Section 10: Engineering Orientation for Undeclared Majors
 - Semester: Fall 2020
-- Meeting Time: Friday 9:35—10:25am, 10:40am—12:15pm (EST)
+- Meeting Time: Friday 9:35-10:25am, 10:40am-12:15pm (EST)
 - Location: Live virtual course on Blackboard Collaborate Ultra
 
 ### Course Description
