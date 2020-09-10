@@ -21,5 +21,5 @@ Got too many ~things~ to keep track of for online classes? Not to worry, this pa
 
 Get hyped! Soon you'll be making mobile apps and doing data analysis in Python:
 
-<img src="images/PythonAnimation.gif" width="550"/>
-![](images/ThunkableAnimation.gif)
+<img src="images/PythonAnimation.gif" height="350"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/ThunkableAnimation.gif" height="350"/>
