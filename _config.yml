@@ -29,6 +29,11 @@ collections:
     output: true
     title: Assignments
     permalink: /:collection/:name.html
+  
+  labs:
+    output: true
+    title: Labs
+    permalink: /:collection/:name.html
 
 defaults:
 # Turn the profile sidebar on for all pages by default, except for the
@@ -45,13 +50,25 @@ defaults:
     scope:
       path: "_assignments"
     values:
-      show_profile: false
+      show_profile: true
       layout: defaults/assignment
+      narrow: true
+      due_date: due_date NOT SET
+
+  -
+    scope:
+      path: "_labs"
+    values:
+      show_profile: true
+      layout: defaults/page
+      narrow: true
+  
   -
     scope:
       path: "list"
     values:
-      show_profile: false
+      show_profile: true
       layout: defaults/list
+      narrow: true
 
 
