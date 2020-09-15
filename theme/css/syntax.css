@@ -70,3 +70,19 @@ table, th, td{
 table th, table td{
     padding: 10px;
 }
+
+tr:nth-child(even) { 
+    background-color: rgb(231, 231, 231); 
+}
+
+th {
+    background-color: rgb(231, 231, 231);
+}
+
+.footer {
+    width: 100%;
+    background-color: rgb(53, 53, 53);
+    color: white;
+    text-align: center;
+    line-height: 2.5;
+}
