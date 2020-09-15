@@ -1,5 +1,5 @@
 ---
-title: Labs
+title: Labs & Lectures
 permalink: list/labs.html
 ---
 
