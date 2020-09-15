@@ -19,14 +19,14 @@ Reach out to us anytime on Slack or email! Give us 24 hours to respond to your m
 - Office hours: TBA
 
 ### Learning Assistants
-##### George Wang
-- E-mail: maoxiwang@gwu.edu
-- Office hours: Wednesdays, 3:30 PM - 5:30 PM (EST)
-- Location: Google Meet
-
 ##### Olivia Legault
 - E-mail: olegault@gwu.edu
 - Office hours: Mondays, 12:00 PM - 2:00 PM (EST)
+- Location: Google Meet
+
+##### George Wang
+- E-mail: maoxiwang@gwu.edu
+- Office hours: Wednesdays, 3:30 PM - 5:30 PM (EST)
 - Location: Google Meet
 
 ##### Rick Sear
