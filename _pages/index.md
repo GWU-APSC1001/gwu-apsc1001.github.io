@@ -15,7 +15,7 @@ Got too many ~things~ to keep track of for online classes? Not to worry, this pa
 - Join the course's **[Slack Workspace](https://apsc1001seasgwu.slack.com/)**. Here's where you'll hear class announcements, get questions answered, or just get to know your classmates.
     - Link: [https://apsc1001seasgwu.slack.com/](https://apsc1001seasgwu.slack.com/)
 - Download the **[GW SEAS VPN](https://www.gwu.edu/~virtual/downloads/anyconnect.cfm)**
-    - <a href="{{ site.baseurl }}{% link gwu_vpn.pdf %}" target="_blank"> Installation instructions </a>
+    - <a href="{{ site.baseurl }}{% link files/gwu_vpn.pdf %}" target="_blank"> Installation instructions </a>
     - *NOTE* that you only have to install this once! After the VPN is installed, all you have to do is connect
 - Login to the course's **[Python server](https://kartik-py.seas.gwu.edu)**. *NOTE* that you'll need to be logged into the GW SEAS VPN to access this site. Confused or stuck? [Shoot one of us an email](contact.html).
     - Link: [https://kartik-py.seas.gwu.edu](https://kartik-py.seas.gwu.edu)
