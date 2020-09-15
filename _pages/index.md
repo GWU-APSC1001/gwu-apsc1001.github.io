@@ -26,3 +26,10 @@ Got too many ~things~ to keep track of for online classes? Not to worry, this pa
 
 <img src="images/PythonAnimation.gif" height="350"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="images/ThunkableAnimation.gif" height="350"/>
+
+<div class="card mb-3 bg-light">
+    <ul>
+    <li> COVID-19 data taken from the <a href="https://github.com/CSSEGISandData/COVID-19" target="_blank">COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University</a> and <a href="https://ourworldindata.org/coronavirus" target="_blank">Our World in Data</a></li>
+    <li>App built with <a href="https://thunkable.com/" target="_blank">Thunkable</a></li>
+    </ul>
+</div>
