@@ -8,7 +8,7 @@ title: Course Schedule
 | Date | Lecture Topic | Hands-on Lab Work | What's Due |
 |:---|:---|:---|
 | TBD | Welcome Night | [APSC 1001 Onboarding](labs/welcome-night.html) | |
-| 9/25/20 | Introduction to APSC1001 with Dr. Narahari | Intro to Python programming and Thunkable app development | |
+| 9/25/20 | Introduction to APSC1001 with Dr. Narahari | Intro to Python programming and [Thunkable app development](labs/week1-thunkable.html) | |
 | 10/2/20 | Intro to Electrical and Computer Engineering with TBA | Handling data arrays and plotting data using Python; In-class lab on app development / Intro to Final Projects; Student group formation | HW1 |
 | 10/9/20 | Fall Break | No class this week | |
 | 10/16/20 | Introduction to Civil Engineering with TBA | Python guided project; In-class Lab on app development / activities | |
