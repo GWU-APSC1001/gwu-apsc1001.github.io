@@ -22,6 +22,10 @@ Got too many ~things~ to keep track of for online classes? Not to worry, this pa
 
 ### Announcements
 
+**WELCOME NIGHT**: We'll be having a welcome night for APSC 1001 students. Schedule for the session [is here](labs/week-0-onboarding).
+
+<hr/>
+
 **ON THE HORIZON:** Get hyped! Soon you'll be making mobile apps and doing data analysis in Python:
 
 <img src="images/PythonAnimation.gif" height="350"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
