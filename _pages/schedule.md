@@ -7,7 +7,7 @@ title: Course Schedule
 
 | Date | Lecture Topic | Hands-on Lab Work | What's Due |
 |:---|:---|:---|
-| TBD | Welcome Night | [APSC1001 Onboarding](labs/welcome-night.html) | |
+| TBD | Welcome Night | [APSC1001 Onboarding](labs/week-0-onboarding.html) | |
 | 9/25/20 | Introduction to APSC1001 by Associate Dean Bhagirath Narahari and Prof. Kartik Bulusu | Intro to Python programming and [Thunkable app development](labs/week1-thunkable.html) | |
 | 10/2/20 | Introduction to Electrical and Computer Engineering by [Prof. Gina Adam](https://www.seas.gwu.edu/gina-adam) | Handling data arrays and plotting data using Python; In-class lab on app development / Intro to Final Projects; Student group formation | HW1 |
 | 10/9/20 | Fall Break | No class this week | |
