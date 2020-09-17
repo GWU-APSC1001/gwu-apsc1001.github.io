@@ -2,7 +2,7 @@
 title: "Week 1: Python"
 ---
 
-**Goal:** This lab will teach you how to handle `numpy` arrays in Python.
+**Goal:** This lab will teach you how to handle matrices and arrays with `numpy` in Python.
 
 <hr/>
 
