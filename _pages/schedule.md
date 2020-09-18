@@ -18,7 +18,7 @@ title: Course Schedule
     <tr>
       <td style="text-align: left">9/21/20</td>
       <td style="text-align: left">Pre-course virtual meetup</td>
-      <td style="text-align: left"><a href="labs/week-0-onboarding.html">APSC1001 Onboarding</a></td>
+      <td style="text-align: left"><a href="labs/week0-onboarding.html">APSC1001 Onboarding</a></td>
       <td> </td>
     </tr>
     <tr>

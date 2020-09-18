@@ -22,7 +22,7 @@ Got too many ~things~ to keep track of for online classes? Not to worry, this pa
 
 ### Announcements
 
-**WELCOME NIGHT**: On *September 21 at 7PM EST*, we'll be having a welcome night for APSC 1001 students. Schedule for the session [is here](labs/week-0-onboarding).
+**WELCOME NIGHT**: On *September 21 at 7PM EST*, we'll be having a welcome night for APSC 1001 students. Schedule for the session [is here](labs/week0-onboarding).
 
 <hr/>
 
