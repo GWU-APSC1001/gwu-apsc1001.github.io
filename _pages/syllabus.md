@@ -15,14 +15,11 @@ title: Syllabus
 - Location: Live virtual course on Blackboard Collaborate Ultra
 
 ### Course Description
-This is an introductory course designed for Engineering freshmen who have not chosen a major. The course will introduce the students to different majors in SEAS, to computational thinking and modeling using Python programming language and mobile app programing tools. Course will consist of:
-1. lectures on the various engineering disciplines in SEAS,
-2. hands-on Python programming exercises and
-3. hands-on exercises on creating simple mobile APPs.
+The course will introduce the students to different majors in SEAS, to computational thinking and modeling using Python programming language and Thunkable (a free drag and drop platform where anyone can build their own mobile applications or apps).
 
-The students will work on the following two projects:
-1. Guided-python programming project and
-2. APP building project
+The students will work on the following two projects motivated by the current public health crisis the world is going through:
+1. Guided Python programming project to analyze COVID-19 data from a well-known data source
+2. App building project using Thunkable to create a COVID-19 social awareness tool
 
 Through the above course activities students will be exposed to computational thinking and the various engineering disciplines in SEAS. The course will use “Blackboard Collaborate” for lectures and synchronous communication between the instruction team and the students. The students will also get access to a “slack-workspace” for this course, that will facilitate offline discussions among themselves and the instruction team.
 
