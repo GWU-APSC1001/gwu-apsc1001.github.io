@@ -25,7 +25,7 @@ title: Course Schedule
       <td style="text-align: left">9/25/20</td>
       <td style="text-align: left">Introduction to APSC1001 by Associate Dean Bhagirath Narahari and Prof. Kartik Bulusu</td>
       <td style="text-align: left"><a href="labs/week1-python.html">Intro to Python matrices</a> and <a href="labs/week1-thunkable.html">Thunkable app development</a></td>
-      <td> </td>
+      <td style="text-align: left"> End of class: <a href="https://docs.google.com/forms/d/e/1FAIpQLSfk8Peofmr0zEUFSrUNdPeWt-YPh6R7A0fls_bGC-Ai9BeOyw/viewform?usp=sf_link" target="_blank">Working Styles Workout</a></td>
     </tr>
     <tr>
       <td style="text-align: left">10/2/20</td>
