@@ -30,7 +30,7 @@ title: Course Schedule
     <tr>
       <td style="text-align: left">10/2/20</td>
       <td style="text-align: left">Introduction to Electrical and Computer Engineering by <a href="https://www.seas.gwu.edu/gina-adam" target="_blank">Prof. Gina Adam</a></td>
-      <td style="text-align: left"><a href="labs/week2-python.html">Deep dive: plotting data using Python</a>; In-class lab on app development / Intro to Final Projects; Student group formation</td>
+      <td style="text-align: left"><a href="labs/week2-python.html">Deep dive: plotting data using Python</a>; <a href="labs/week2-thunkable.html">In-class Thunkable: Handwash Timer</a>; Intro to Final Projects; Student group formation</td>
       <td>HW1</td>
     </tr>
     <tr>
