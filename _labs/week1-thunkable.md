@@ -4,7 +4,7 @@ title: "Week 1: Thunkable"
 
 **Goal:** This lab will teach you how to make the APSC 1001 Welcome App
 
-**Downloadable Resources:** ["Class" image from the Noun Project](/files/noun_class.png)
+**Downloadable Resources:** ["Class" image from the Noun Project](/files/noun_class.png) (right-click and "Save As")
 
 <hr/>
 
