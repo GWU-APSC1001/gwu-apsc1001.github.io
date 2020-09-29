@@ -11,12 +11,14 @@ Reach out to us anytime on Slack or email! Give us 24 hours to respond to your m
 ##### Professor Kartik Bulusu
 - Campus Address: SEH 3640
 - E-mail: bulusu@gwu.edu
-- Office hours: TBA
+- Office hours: On-demand (please reach out via email or Slack!)
+- Location: Blackboard Collaborate Course Room
 
 ### Teaching Assistant
 ##### Samantha Racan
 - E-mail: samracan19@gwu.edu
-- Office hours: TBA
+- Office hours: Wednesdays, 8:00 PM - 9:00 PM (EST)
+- Location: Blackboard Collaborate Course Room
 
 ### Learning Assistants
 ##### Olivia Legault
