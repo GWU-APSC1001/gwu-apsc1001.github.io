@@ -41,7 +41,7 @@ title: Course Schedule
     </tr>
     <tr>
       <td style="text-align: left">10/16/20</td>
-      <td style="text-align: left">Introduction to Civil Engineering with TBA</td>
+      <td style="text-align: left">Introduction to Civil Engineering with <a href="https://transportation.seas.gwu.edu/" target="_blank">Prof. Samer Hamdar</a></td>
       <td style="text-align: left">Python guided project<br><a href="labs/week2-thunkable.html">Thunkable: Handwash Timer</a></td>
       <td> </td>
     </tr>
