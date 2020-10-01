@@ -24,13 +24,13 @@ title: Course Schedule
     <tr>
       <td style="text-align: left">9/25/20</td>
       <td style="text-align: left">Introduction to APSC1001 by Associate Dean Bhagirath Narahari and Prof. Kartik Bulusu</td>
-      <td style="text-align: left"><a href="labs/week1-python.html">Intro to Python matrices</a> and <a href="labs/week1-thunkable.html">Thunkable app development</a></td>
+      <td style="text-align: left"><a href="labs/week1-python.html">Intro to Python matrices</a></td>
       <td style="text-align: left"> End of class: <a href="https://docs.google.com/forms/d/e/1FAIpQLSfk8Peofmr0zEUFSrUNdPeWt-YPh6R7A0fls_bGC-Ai9BeOyw/viewform?usp=sf_link" target="_blank">Working Styles Workout</a></td>
     </tr>
     <tr>
       <td style="text-align: left">10/2/20</td>
       <td style="text-align: left">Introduction to Electrical and Computer Engineering by <a href="https://www.seas.gwu.edu/gina-adam" target="_blank">Prof. Gina Adam</a></td>
-      <td style="text-align: left"><a href="labs/week2-python.html">Deep dive: plotting data using Python</a>; <a href="labs/week2-thunkable.html">In-class Thunkable: Handwash Timer</a>; Intro to Final Projects</td>
+      <td style="text-align: left"><a href="labs/week1-thunkable.html">Thunkable: Welcome App</a><br><a href="labs/week2-python.html">Deep dive: plotting data using Python</a><br>Intro to Final Projects<br><a href="https://docs.google.com/forms/d/e/1FAIpQLScGJIKbpaAfe8nFVy6VNMHMqUghd0vKIZ6uMbcFrYxp_FhJdA/viewform" target="_blank">COGS Activity</a></td>
       <td>HW1</td>
     </tr>
     <tr>
@@ -42,18 +42,18 @@ title: Course Schedule
     <tr>
       <td style="text-align: left">10/16/20</td>
       <td style="text-align: left">Introduction to Civil Engineering with TBA</td>
-      <td style="text-align: left">Python guided project; In-class Lab on app development / activities</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td style="text-align: left">10/23/20</td>
-      <td style="text-align: left">SEAS R&amp;D Showcase</td>
-      <td style="text-align: left">No class this week</td>
+      <td style="text-align: left">Python guided project<br><a href="labs/week2-thunkable.html">Thunkable: Handwash Timer</a></td>
       <td> </td>
     </tr>
     <tr>
       <td style="text-align: left">10/23/20</td>
       <td style="text-align: center" colspan="3">Guided Python project on COVID-19 data due</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">10/23/20</td>
+      <td style="text-align: left"><strong>Return to SEAS 1001 for this week ONLY</strong></td>
+      <td style="text-align: left">No APSC 1001 today</td>
+      <td>Python project due</td>
     </tr>
     <tr>
       <td style="text-align: left">10/30/20</td>
