@@ -30,14 +30,14 @@ title: Course Schedule
     <tr>
       <td style="text-align: left">10/2/20</td>
       <td style="text-align: left">Introduction to Electrical and Computer Engineering by <a href="https://www.seas.gwu.edu/gina-adam" target="_blank">Prof. Gina Adam</a></td>
-      <td style="text-align: left"><a href="labs/week1-thunkable.html">Thunkable: Welcome App</a><br><a href="labs/week2-python.html">Deep dive: plotting data using Python</a><br>Intro to Final Projects<br><a href="https://docs.google.com/forms/d/e/1FAIpQLScGJIKbpaAfe8nFVy6VNMHMqUghd0vKIZ6uMbcFrYxp_FhJdA/viewform" target="_blank">COGS Activity</a></td>
-      <td>HW1</td>
+      <td style="text-align: left">-<a href="labs/week1-thunkable.html">Thunkable: Welcome App</a><br>-<a href="labs/week2-python.html">Deep dive: plotting data using Python</a><br>-Intro to Final Projects<br>-<a href="https://docs.google.com/forms/d/e/1FAIpQLScGJIKbpaAfe8nFVy6VNMHMqUghd0vKIZ6uMbcFrYxp_FhJdA/viewform" target="_blank">COGS Activity</a></td>
+      <td>Python HW1</td>
     </tr>
     <tr>
       <td style="text-align: left">10/9/20</td>
       <td style="text-align: left">Fall Break</td>
       <td style="text-align: left">No class this week</td>
-      <td><a href="assignments/thunkable-assignment1.html">Thunkable Assignment 1</a></td>
+      <td><a href="assignments/thunkable-assignment1.html">Thunkable Assignment 1</a><br>Python HW2</td>
     </tr>
     <tr>
       <td style="text-align: left">10/16/20</td>
@@ -59,13 +59,13 @@ title: Course Schedule
       <td style="text-align: left">10/30/20</td>
       <td style="text-align: left">Introduction to Systems Engineering by <a href="https://www.seas.gwu.edu/erica-l-gralla" target="_blank">Profs. Erica Gralla</a>, <a href="https://www.seas.gwu.edu/joost-santos" target="_blank">Joost Santos</a>, and <a href="https://www.seas.gwu.edu/thomas-mazzuchi" target="_blank">Thomas Mazzuchi</a></td>
       <td style="text-align: left">In-class Lab on app development / activities</td>
-      <td>HW2</td>
+      <td> </td>
     </tr>
     <tr>
       <td style="text-align: left">11/6/20</td>
       <td style="text-align: left">Introduction to Computer Science by <a href="https://www.seas.gwu.edu/bhagirath-narahari" target="_blank">Associate Dean Bhagirath Narahari</a></td>
       <td style="text-align: left">In-class Lab / activities</td>
-      <td>HW3</td>
+      <td> </td>
     </tr>
     <tr>
       <td style="text-align: left">11/13/20</td>
@@ -77,7 +77,7 @@ title: Course Schedule
       <td style="text-align: left">11/20/20</td>
       <td style="text-align: left">Introduction to Biomedical Engineering by <a href="https://www.seas.gwu.edu/anne-laure-papa" target="_blank">Prof. Anne-Laure Papa</a></td>
       <td style="text-align: left">Student Panel</td>
-      <td>HW4</td>
+      <td> </td>
     </tr>
     <tr>
       <td style="text-align: left">11/27/20</td>
