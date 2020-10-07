@@ -2,7 +2,7 @@
 title: Thunkable Assignment 1
 narrow: true
 show_profile: true
-due_date: October 8, 2020, 11:59 PM EST
+due_date: October 9, 2020, 11:59 PM EST
 ---
 
 Using what you learned about the Welcome App, we want you to break it and make it your own! Check the #general channel in Slack for a link to the Welcome App.
