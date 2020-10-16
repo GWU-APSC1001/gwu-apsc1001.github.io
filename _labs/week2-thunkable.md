@@ -4,7 +4,9 @@ title: "Week 2: Thunkable"
 
 **Goal:** This lab will teach you how to make the Handwash Timer app.
 
-**Downloadable Resources:** <a href="/files/handwash_images.zip" target="_blank">ZIP file of handwashing images</a>
+**Downloadable Resources:** 
+- <a href="/files/handwash_images.zip" target="_blank">ZIP file of handwashing images</a>
+- <a href="/files/thunkable_week2.pdf" target="_blank">Lecture Slides</a>
 
 <hr/>
 
