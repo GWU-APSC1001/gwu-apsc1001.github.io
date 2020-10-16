@@ -49,7 +49,11 @@ title: Course Schedule
       <td style="text-align: left">10/23/20</td>
       <td style="text-align: left"><strong>Return to SEAS 1001 for this week ONLY</strong></td>
       <td style="text-align: left">No APSC 1001 today</td>
-      <td><strong>Python project due</strong><br><a>Thunkable Assignment 2</a></td>
+      <td><a href="assignments/thunkable-assignment2.html">Thunkable Assignment 2</a><br><a href="https://docs.google.com/forms/d/e/1FAIpQLScGJIKbpaAfe8nFVy6VNMHMqUghd0vKIZ6uMbcFrYxp_FhJdA/viewform" target="_blank">COGS TED Activity</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">10/27/20</td>
+      <td style="text-align: center" colspan="3">Guided Python project on COVID-19 data due</td>
     </tr>
     <tr>
       <td style="text-align: left">10/30/20</td>
