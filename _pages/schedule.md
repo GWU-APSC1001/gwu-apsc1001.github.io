@@ -42,7 +42,7 @@ title: Course Schedule
     <tr>
       <td style="text-align: left">10/16/20</td>
       <td style="text-align: left">Introduction to Civil Engineering with <a href="https://transportation.seas.gwu.edu/" target="_blank">Prof. Samer Hamdar</a></td>
-      <td style="text-align: left">Python guided project<br><a href="labs/week2-thunkable.html">Thunkable: Handwash Timer</a></td>
+      <td style="text-align: left">COVID-19 data plotting in Python<br><a href="labs/week2-thunkable.html">Thunkable: Handwash Timer</a></td>
       <td> </td>
     </tr>
     <tr>
@@ -53,7 +53,7 @@ title: Course Schedule
     </tr>
     <tr>
       <td style="text-align: left">10/27/20</td>
-      <td style="text-align: center" colspan="3">Guided Python project on COVID-19 data due</td>
+      <td style="text-align: center" colspan="3"><strong>Guided Python project on COVID-19 data due</strong></td>
     </tr>
     <tr>
       <td style="text-align: left">10/30/20</td>
