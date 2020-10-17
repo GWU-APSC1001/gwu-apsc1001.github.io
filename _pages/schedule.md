@@ -58,26 +58,26 @@ title: Course Schedule
     <tr>
       <td style="text-align: left">10/30/20</td>
       <td style="text-align: left">Introduction to Systems Engineering by <a href="https://www.seas.gwu.edu/erica-l-gralla" target="_blank">Profs. Erica Gralla</a>, <a href="https://www.seas.gwu.edu/joost-santos" target="_blank">Joost Santos</a>, and <a href="https://www.seas.gwu.edu/thomas-mazzuchi" target="_blank">Thomas Mazzuchi</a></td>
-      <td style="text-align: left">In-class Lab on app development / activities</td>
+      <td style="text-align: left">In-class Lab / activities TBA</td>
       <td> </td>
     </tr>
     <tr>
       <td style="text-align: left">11/6/20</td>
       <td style="text-align: left">Introduction to Computer Science by <a href="https://www.seas.gwu.edu/bhagirath-narahari" target="_blank">Associate Dean Bhagirath Narahari</a></td>
-      <td style="text-align: left">In-class Lab / activities</td>
-      <td> </td>
+      <td style="text-align: left">In-class Lab / activities TBA</td>
+      <td>Python HW3</td>
     </tr>
     <tr>
       <td style="text-align: left">11/13/20</td>
       <td style="text-align: left">Introduction to Mechanical and Aerospace Engineering by <a href="https://www.seas.gwu.edu/michael-w-plesniak" target="_blank">Prof. Michael Plesniak</a></td>
-      <td style="text-align: left">In-class Lab / activities</td>
+      <td style="text-align: left">In-class Lab / activities TBA</td>
       <td> </td>
     </tr>
     <tr>
       <td style="text-align: left">11/20/20</td>
       <td style="text-align: left">Introduction to Biomedical Engineering by <a href="https://www.seas.gwu.edu/anne-laure-papa" target="_blank">Prof. Anne-Laure Papa</a></td>
       <td style="text-align: left">Student Panel</td>
-      <td> </td>
+      <td>Python HW4</td>
     </tr>
     <tr>
       <td style="text-align: left">11/27/20</td>
