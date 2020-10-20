@@ -1,6 +1,6 @@
 # These pages appear along the navbar at the top
-- title: Welcome
-  href: index.html
+- title: Brownie Points Showcase
+  href: brownie-points.html
 
 - title: Syllabus
   href: syllabus.html
@@ -16,6 +16,3 @@
 
 # - title: Assignments
 #   href: list/assignments.html
-
-  # - title: Gallery
-#   href: gallery.html

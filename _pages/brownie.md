@@ -12,7 +12,7 @@ Of course, it's always difficult to pick the top 4 out of so many excellent crea
 We'll keep this page updated as we get more assignment submissions.
 
 ### Assignment 1
-- <a href="https://x.thunkable.com/projectPage/5f8a03c4260f6c00112597a6" target="_blank">Henry Mackay added a frame which loads GW's COVID-19 response page ℹ</a>
+<!-- - <a href="https://x.thunkable.com/projectPage/5f8a03c4260f6c00112597a6" target="_blank">Henry Mackay added a frame which loads GW's COVID-19 response page ℹ</a> -->
 - <a href="https://x.thunkable.com/projectPage/5f8a000723e62b001366e710" target="_blank">Brendan Humphrey added camera functionality 📸</a>
 - <a href="https://x.thunkable.com/projectPage/5f8a02f10db58e00118223fd" target="_blank">Kaj Boeri sketched out an idea for a workout app 💪</a>
 - <a href="https://x.thunkable.com/projectPage/5f89fac95573560011858019" target="_blank">Lily Samoyan translated the app's text-to-speech greeting into Spanish 🌍</a>
