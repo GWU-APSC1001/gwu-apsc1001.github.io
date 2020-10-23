@@ -1,18 +1,18 @@
 # These pages appear along the navbar at the top
-- title: Brownie Points Showcase
-  href: brownie-points.html
+- title: Schedule
+  href: schedule.html
 
 - title: Syllabus
   href: syllabus.html
-
-- title: Schedule
-  href: schedule.html
 
 - title: Labs & Lectures
   href: list/labs.html
 
 - title: Instruction Team
   href: contact.html
+
+- title: Brownie Points Showcase
+  href: brownie-points.html
 
 # - title: Assignments
 #   href: list/assignments.html
