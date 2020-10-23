@@ -1,7 +1,7 @@
 ---
 layout: defaults/page
 permalink: index.html
-title: Welcome!
+title: Links & Downloads
 narrow: true
 ---
 
@@ -19,10 +19,11 @@ Got too many ~things~ to keep track of for online classes? Not to worry, this pa
     - *NOTE* that you only have to install this once! After the VPN is installed, all you have to do is connect
 - Login to the course's **[Python server](https://kartik-py.seas.gwu.edu)**. *NOTE* that you'll need to be logged into the GW SEAS VPN to access this site. Confused or stuck? [Shoot one of us an email](contact.html).
     - Link: [https://kartik-py.seas.gwu.edu](https://kartik-py.seas.gwu.edu)
+<!-- - Vensim system modeling software -->
 
-### Announcements
+### Upcoming
 
-**ON THE HORIZON:** Get hyped! Soon you'll be making mobile apps and doing data analysis in Python:
+Get hyped! Soon you'll be making mobile apps and doing data analysis in Python:
 
 <img src="images/PythonAnimation.gif" height="350"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="images/ThunkableAnimation.gif" height="350"/>
