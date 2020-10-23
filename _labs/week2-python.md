@@ -1,5 +1,5 @@
 ---
-title: "Week 2: Python"
+title: "Module 2: Python"
 ---
 
 **Goal:** This lab will teach you how to graph data using `matplotlib` and `pandas` in Python.

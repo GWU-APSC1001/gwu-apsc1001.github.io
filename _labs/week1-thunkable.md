@@ -1,5 +1,5 @@
 ---
-title: "Week 1: Thunkable"
+title: "Module 1: Thunkable"
 ---
 
 **Goal:** This lab will teach you how to make the APSC 1001 Welcome App

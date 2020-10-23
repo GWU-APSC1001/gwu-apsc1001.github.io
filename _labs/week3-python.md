@@ -1,5 +1,5 @@
 ---
-title: "Week 3: Python"
+title: "Module 3: Python"
 ---
 
 **Goal:** This lab will dive deeper into data manipulation with `pandas`.

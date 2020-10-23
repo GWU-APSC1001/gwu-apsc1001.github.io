@@ -1,5 +1,5 @@
 ---
-title: "Week 2: Thunkable"
+title: "Module 2: Thunkable"
 ---
 
 **Goal:** This lab will teach you how to make the Handwash Timer app.
