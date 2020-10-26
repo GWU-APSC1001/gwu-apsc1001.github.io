@@ -16,6 +16,7 @@ We'll keep this page updated as we get more assignment submissions.
 - <a href="https://x.thunkable.com/projectPage/5f8a000723e62b001366e710" target="_blank">Brendan Humphrey added camera functionality 📸</a>
 - <a href="https://x.thunkable.com/projectPage/5f8a02f10db58e00118223fd" target="_blank">Kaj Boeri sketched out an idea for a workout app 💪</a>
 - <a href="https://x.thunkable.com/projectPage/5f89fac95573560011858019" target="_blank">Lily Samoyan translated the app's text-to-speech greeting into Spanish 🌍</a>
+
 <!-- 
 ### Assignment 2
 - <a href="https://x.thunkable.com/projectPage/5f97282932b3930011b5a139" target="_blank">Rigel Brown added a fun animation and cleaned up the UI 📱</a>
