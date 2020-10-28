@@ -19,9 +19,12 @@ Got too many ~things~ to keep track of for online classes? Not to worry, this pa
     - *NOTE* that you only have to install this once! After the VPN is installed, all you have to do is connect
 - Login to the course's **[Python server](https://kartik-py.seas.gwu.edu)**. *NOTE* that you'll need to be logged into the GW SEAS VPN to access this site. Confused or stuck? [Shoot one of us an email](contact.html).
     - Link: [https://kartik-py.seas.gwu.edu](https://kartik-py.seas.gwu.edu)
-<!-- - Vensim system modeling software -->
+- Vensim system modeling software **(needed for class on 10/30/20)**
+    - <a href="https://vensim.com/free-download/" target="_blank">https://vensim.com/free-download/</a>
+    - <a href="{{ site.baseurl }}{% link files/vensim_install.pdf %}" target="_blank"> Installation instructions </a>
 
-### Upcoming
+
+<!-- ### Upcoming
 
 Get hyped! Soon you'll be making mobile apps and doing data analysis in Python:
 
@@ -33,4 +36,4 @@ Get hyped! Soon you'll be making mobile apps and doing data analysis in Python:
     <li> COVID-19 data taken from the <a href="https://github.com/CSSEGISandData/COVID-19" target="_blank">COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University</a> and <a href="https://ourworldindata.org/coronavirus" target="_blank">Our World in Data</a></li>
     <li>App built with <a href="https://thunkable.com/" target="_blank">Thunkable</a></li>
     </ul>
-</div>
+</div> -->
