@@ -47,13 +47,13 @@ title: Course Schedule
     </tr>
     <tr>
       <td style="text-align: left">10/23/20</td>
-      <td style="text-align: left"><strong>Return to SEAS 1001 for this week ONLY</strong></td>
+      <td style="text-align: left">Return to SEAS 1001 for this week ONLY</td>
       <td style="text-align: left">No APSC 1001 today</td>
       <td><a href="assignments/thunkable-assignment2.html">Thunkable Assignment 2</a><br><a href="https://docs.google.com/forms/d/e/1FAIpQLScGJIKbpaAfe8nFVy6VNMHMqUghd0vKIZ6uMbcFrYxp_FhJdA/viewform" target="_blank">COGS TED Activity</a></td>
     </tr>
     <tr>
       <td style="text-align: left">10/27/20</td>
-      <td style="text-align: center" colspan="3"><strong>Guided Python project on COVID-19 data due</strong></td>
+      <td style="text-align: center" colspan="3">Guided Python project on COVID-19 data due</td>
     </tr>
     <tr>
       <td style="text-align: left">10/30/20</td>
@@ -71,13 +71,13 @@ title: Course Schedule
       <td style="text-align: left">11/13/20</td>
       <td style="text-align: left">Introduction to Mechanical and Aerospace Engineering by <a href="https://www.seas.gwu.edu/michael-w-plesniak" target="_blank">Prof. Michael Plesniak</a></td>
       <td style="text-align: left">In-class Lab / activities TBA</td>
-      <td> </td>
+      <td>Python HW4</td>
     </tr>
     <tr>
       <td style="text-align: left">11/20/20</td>
       <td style="text-align: left">Introduction to Biomedical Engineering by <a href="https://www.seas.gwu.edu/anne-laure-papa" target="_blank">Prof. Anne-Laure Papa</a></td>
       <td style="text-align: left">Student Panel</td>
-      <td>Python HW4</td>
+      <td> </td>
     </tr>
     <tr>
       <td style="text-align: left">11/27/20</td>
@@ -87,7 +87,7 @@ title: Course Schedule
     </tr>
     <tr>
       <td style="text-align: left">11/28/20</td>
-      <td style="text-align: center" colspan="3">Thunkable app project due</td>
+      <td style="text-align: center" colspan="3"><strong>Thunkable app project due</strong></td>
     </tr>
     <tr>
       <td style="text-align: left">12/3/20</td>
