@@ -87,7 +87,7 @@ title: Course Schedule
     </tr>
     <tr>
       <td style="text-align: left">11/28/20</td>
-      <td style="text-align: center" colspan="3"><strong>Thunkable app project due</strong></td>
+      <td style="text-align: center" colspan="3"><strong>Thunkable App Project due</strong></td>
     </tr>
     <tr>
       <td style="text-align: left">12/3/20</td>
