@@ -19,7 +19,7 @@ Got too many ~things~ to keep track of for online classes? Not to worry, this pa
     - *NOTE* that you only have to install this once! After the VPN is installed, all you have to do is connect
 - Login to the course's **[Python server](https://kartik-py.seas.gwu.edu)**. *NOTE* that you'll need to be logged into the GW SEAS VPN to access this site. Confused or stuck? [Shoot one of us an email](contact.html).
     - Link: [https://kartik-py.seas.gwu.edu](https://kartik-py.seas.gwu.edu)
-- Vensim system modeling software **(needed for class on 10/30/20)**
+- Vensim system modeling software
     - <a href="https://vensim.com/free-download/" target="_blank">https://vensim.com/free-download/</a>
     - <a href="{{ site.baseurl }}{% link files/vensim_install.pdf %}" target="_blank"> Installation instructions </a>
 
