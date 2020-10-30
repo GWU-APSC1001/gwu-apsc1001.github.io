@@ -17,9 +17,9 @@ We'll keep this page updated as we get more assignment submissions.
 - <a href="https://x.thunkable.com/projectPage/5f8a02f10db58e00118223fd" target="_blank">Kaj Boeri sketched out an idea for a workout app 💪</a>
 - <a href="https://x.thunkable.com/projectPage/5f89fac95573560011858019" target="_blank">Lily Samoyan translated the app's text-to-speech greeting into Spanish 🌍</a>
 
-<!-- 
+
 ### Assignment 2
 - <a href="https://x.thunkable.com/projectPage/5f97282932b3930011b5a139" target="_blank">Rigel Brown added a fun animation and cleaned up the UI 📱</a>
 - <a href="https://x.thunkable.com/projectPage/5f9728d41322700011b01a6f" target="_blank">Jack Brookshaw reimagined the app into a golf shot timer ⛳</a>
 - <a href="https://x.thunkable.com/projectPage/5f972944c106cc001199ce6b" target="_blank">Jack Palaian added a reminder to vote featuring Barack Obama 🗳</a>
-- <a href="https://x.thunkable.com/projectPage/5f972acfd41f0f00117706da" target="_blank">Caitlyn Hollander's timer cycles through colors during the countdown and has a happy surprise at the end 🎨</a> -->
+- <a href="https://x.thunkable.com/projectPage/5f972acfd41f0f00117706da" target="_blank">Caitlyn Hollander's timer cycles through colors during the countdown and has a happy surprise at the end 🎨</a>
