@@ -58,7 +58,7 @@ title: Course Schedule
     <tr>
       <td style="text-align: left">10/30/20</td>
       <td style="text-align: left">Introduction to Systems Engineering by <a href="https://www.seas.gwu.edu/erica-l-gralla" target="_blank">Profs. Erica Gralla</a> and <a href="https://www.seas.gwu.edu/thomas-mazzuchi" target="_blank">Thomas Mazzuchi</a></td>
-      <td style="text-align: left"><a href="labs/emse-lab.html">EMSE Simulation Lab</a><br><a href="labs/python-week4.html">Choropleths in Python</a></td>
+      <td style="text-align: left"><a href="labs/emse-lab.html">EMSE Simulation Lab</a><br><a href="labs/week4-python.html">Choropleths in Python</a></td>
       <td> </td>
     </tr>
     <tr>
