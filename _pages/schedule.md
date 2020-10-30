@@ -64,7 +64,7 @@ title: Course Schedule
     <tr>
       <td style="text-align: left">11/6/20</td>
       <td style="text-align: left">Introduction to Computer Science by <a href="https://www.seas.gwu.edu/bhagirath-narahari" target="_blank">Associate Dean Bhagirath Narahari</a></td>
-      <td style="text-align: left">In-class Lab / activities TBA</td>
+      <td style="text-align: left">Image encryption in Python<br>Thunkable App Project assigned</td>
       <td>Python HW3<br><a href="assignments/thunkable-assignment3.html">Thunkable Assignment 3</a></td>
     </tr>
     <tr>
