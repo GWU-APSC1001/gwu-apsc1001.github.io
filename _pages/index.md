@@ -24,16 +24,16 @@ Got too many ~things~ to keep track of for online classes? Not to worry, this pa
     - <a href="{{ site.baseurl }}{% link files/vensim_install.pdf %}" target="_blank"> Installation instructions </a>
 
 
-<!-- ### Upcoming
+### Upcoming
 
-Get hyped! Soon you'll be making mobile apps and doing data analysis in Python:
+This class involves some awesome projects, like data analysis in Python and app building with Thunkable!
 
-<img src="images/PythonAnimation.gif" height="350"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/ThunkableAnimation.gif" height="350"/>
+<img src="images/CovidUSAnimation.gif" height="300"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/ThunkableAnimation.gif" height="300"/>
 
 <div class="card mb-3 bg-light">
     <ul>
     <li> COVID-19 data taken from the <a href="https://github.com/CSSEGISandData/COVID-19" target="_blank">COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University</a> and <a href="https://ourworldindata.org/coronavirus" target="_blank">Our World in Data</a></li>
     <li>App built with <a href="https://thunkable.com/" target="_blank">Thunkable</a></li>
     </ul>
-</div> -->
+</div>
