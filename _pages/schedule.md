@@ -63,7 +63,7 @@ title: Course Schedule
     </tr>
     <tr>
       <td style="text-align: left">11/6/20</td>
-      <td style="text-align: left">Introduction to Mechanical and Aerospace Engineering by <a href="https://www.seas.gwu.edu/michael-w-plesniak" target="_blank">Prof. Michael Plesniak</a></td>
+      <td style="text-align: left">Introduction to Mechanical and Aerospace Engineering by <a href="https://www.seas.gwu.edu/michael-w-plesniak" target="_blank">Prof. Michael Plesniak</a> and <a href="https://leftwichlab.seas.gwu.edu/" target="_blank">Prof. Megan Leftwich</a></td>
       <td style="text-align: left">Thunkable App Project assigned</td>
       <td>Python HW3<br><a href="assignments/thunkable-assignment3.html">Thunkable Assignment 3</a><br><a href="https://docs.google.com/forms/d/e/1FAIpQLScGJIKbpaAfe8nFVy6VNMHMqUghd0vKIZ6uMbcFrYxp_FhJdA/viewform?usp=sf_link" target="_blank">System Dynamics COGS</a></td>
     </tr>
