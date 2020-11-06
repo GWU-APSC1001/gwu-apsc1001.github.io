@@ -7,8 +7,7 @@ due_date: November 28, 2020, 11:59 PM EST
 
 Your final project for APSC 1001 is to work with your small group and design an app that meets one of our project specs. All three options are social innovation apps to help with quarantine during the COVID-19 pandemic.
 
-**Project Specs TBA!**
-<!-- **Project Specs:** <a href="/files/thunkable_a3.pdf" target="_blank">View PDF</a> -->
+**Project Specs:** <a href="/files/thunkable_final.pdf" target="_blank">View PDF</a>
 
 <hr>
 
