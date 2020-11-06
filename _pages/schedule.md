@@ -71,7 +71,7 @@ title: Course Schedule
       <td style="text-align: left">11/13/20</td>
       <td style="text-align: left">Introduction to Computer Science by <a href="https://www.seas.gwu.edu/bhagirath-narahari" target="_blank">Associate Dean Bhagirath Narahari</a></td>
       <td style="text-align: left">Image encryption in Python</td>
-      <td>Python HW4</td>
+      <td>Python HW4<br><a href="assignments/thunkable-assignment4.html">Thunkable Assignment 4</a><br><a target="_blank">Accelerometers COGS</a></td>
     </tr>
     <tr>
       <td style="text-align: left">11/20/20</td>
