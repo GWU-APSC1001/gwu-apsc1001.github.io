@@ -18,6 +18,15 @@ Right now, reach out to your team and start discussing the final project. *If th
 
 <hr>
 
+**Useful Resources**
+
+These are some useful libraries for royalty-free images you can use in your apps.
+- [The Noun Project](https://thenounproject.com/)
+- [Google's Material Icons](https://material.io/resources/icons)
+- [Lottie Files Animations](https://lottiefiles.com/)
+
+<hr>
+
 **HEADS UP:** On the last day of class (December 4), each team will do a *live demo* of their app by screensharing.
 
 When your team is finished with the app, submit it here!
