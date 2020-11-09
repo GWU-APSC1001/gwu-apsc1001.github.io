@@ -11,12 +11,6 @@ Your final project for APSC 1001 is to work with your small group and design an 
 
 <hr>
 
-Right now, reach out to your team and start discussing the final project. *If there is one project you really want to do, fill out the following interest form ASAP!* If you don't have a preference, you don't need to fill out this form; we will assign you one of the projects.
-
-**CLOSES SUNDAY:** <a href="https://docs.google.com/forms/d/e/1FAIpQLSfwaXbMvyZn3_QtYMYUGVv7HpCgWj6znQ1JKSFF4w7uXWGRiQ/viewform?usp=sf_link" target="_blank">Project Preference Form</a>
-
-<hr>
-
 **Useful Resources**
 
 These are some useful libraries for royalty-free images you can use in your apps.
