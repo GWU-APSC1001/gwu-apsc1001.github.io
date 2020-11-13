@@ -18,8 +18,9 @@ These are some useful libraries for royalty-free images you can use in your apps
 - [Google's Material Icons](https://material.io/resources/icons)
 - [Lottie Files Animations](https://lottiefiles.com/)
 
-
-Additionally, here is the PATH Statement worksheet done in class on 11/12/20: [Link to PDF](/files/path_statement.pdf)
+Here are some handy project templates you may want at some point.
+- [PATH Exercise](/files/path_statement.pdf)
+- [Final PowerPoint Template](/files/Final_Project_APSC1.pptx)
 
 <hr>
 
