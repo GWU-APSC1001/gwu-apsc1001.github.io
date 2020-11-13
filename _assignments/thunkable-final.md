@@ -17,7 +17,8 @@ These are some useful libraries for royalty-free images you can use in your apps
 - [The Noun Project](https://thenounproject.com/)
 - [Google's Material Icons](https://material.io/resources/icons)
 - [Lottie Files Animations](https://lottiefiles.com/)
-<br>
+
+
 Additionally, here is the PATH Statement worksheet done in class on 11/12/20: [Link to PDF](/files/path_statement.pdf)
 
 <hr>
