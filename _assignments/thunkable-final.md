@@ -11,6 +11,10 @@ Your final project for APSC 1001 is to work with your small group and design an 
 
 <hr>
 
+**Project PATH Exercise**: Please fill out this form by *THURSDAY (11/19) at MIDNIGHT!* We encourage all groups to work ahead on this: <a href="https://forms.gle/wfSigP4QcfaZPEAN7" target="_blank">https://forms.gle/wfSigP4QcfaZPEAN7</a>
+
+<hr>
+
 **Useful Resources**
 
 These are some useful libraries for royalty-free images you can use in your apps.

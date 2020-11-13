@@ -77,7 +77,7 @@ title: Course Schedule
       <td style="text-align: left">11/20/20</td>
       <td style="text-align: left">Introduction to Biomedical Engineering by <a href="https://www.seas.gwu.edu/anne-laure-papa" target="_blank">Prof. Anne-Laure Papa</a></td>
       <td style="text-align: left">Student Panel</td>
-      <td> </td>
+      <td>Python HW5<br><a href="https://forms.gle/wfSigP4QcfaZPEAN7" target="_blank">Final Project PATH</a></td>
     </tr>
     <tr>
       <td style="text-align: left">11/27/20</td>
