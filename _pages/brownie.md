@@ -23,3 +23,9 @@ We'll keep this page updated as we get more assignment submissions.
 - <a href="https://x.thunkable.com/projectPage/5f972944c106cc001199ce6b" target="_blank">Jack Palaian added a reminder to vote featuring Barack Obama 🗳</a>
 - <a href="https://x.thunkable.com/projectPage/5f972acfd41f0f00117706da" target="_blank">Caitlyn Hollander's timer cycles through colors during the countdown and has a happy surprise at the end 🎨</a>
 - <a href="https://x.thunkable.com/projectPage/5fad84f354b28320f1ec1237" target="_blank">Henry MacKay's timer includes an awesome weather report integration ⛅</a>
+
+### Assignment 3
+- <a href="https://x.thunkable.com/projectPage/5faad3bc84c67914f3f89e7f" target="_blank">Rigel Brown made a spin-off of the Magic 8 Ball toy 🎱</a>
+- <a href="https://x.thunkable.com/projectPage/5faad42eca43540012a0def9" target="_blank">Lily Samoyan made a slideshow to guide you through the motions at the beginning of "Avatar: The Last Airbender" 🌊🪨🔥💨</a>
+- <a href="https://x.thunkable.com/projectPage/5faad81565eb77116c91c72e" target="_blank">Marcela Pineda made an emergency app to call 911 when the phone is shaken 🚨</a>
+    - Yes, this is safe to try on your phone -- it won't dial the number automatically
