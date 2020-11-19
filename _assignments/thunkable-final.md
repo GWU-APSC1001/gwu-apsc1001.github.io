@@ -2,7 +2,7 @@
 title: Thunkable Final Project
 narrow: true
 show_profile: true
-due_date: November 28, 2020, 11:59 PM EST
+due_date: December 1, 2020, 11:59 PM EST
 ---
 
 Your final project for APSC 1001 is to work with your small group and design an app that meets one of our project specs. All three options are social innovation apps to help with quarantine during the COVID-19 pandemic.
@@ -30,6 +30,8 @@ Here are some handy project templates you may want at some point.
 
 **HEADS UP:** On the last day of class (December 4), each team will do a *live demo* of their app by screensharing.
 
-When your team is finished with the app, submit it here!
+<hr>
+
+When your team is finished with the app, submit it here! Submit by **December 1**, and on this week before the final class, you will meet with your instruction team mentor to demonstrate the functionality of the app.
 
 **Submission Link:** <a href="https://docs.google.com/forms/d/e/1FAIpQLScMjcqVQXFbOfEdqt_K0htHgK9eG3nUSzmpYKApSuRdI66Ydw/viewform?usp=sf_link" target="_blank">Google Form</a>
