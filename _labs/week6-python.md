@@ -8,4 +8,4 @@ title: "Module 6: Python"
 
 <hr/>
 
-<!-- Video coming soon! For now, check the Blackboard Collaborate Ultra lecture archive. -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/owp0chWyusc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
