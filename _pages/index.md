@@ -23,8 +23,14 @@ Got too many ~things~ to keep track of for online classes? Not to worry, this pa
     - <a href="https://vensim.com/free-download/" target="_blank">https://vensim.com/free-download/</a>
     - <a href="{{ site.baseurl }}{% link files/vensim_install.pdf %}" target="_blank"> Installation instructions </a>
 
+### Thinking Ahead & Getting Involved
+After APSC 1001, we encourage you to explore SEAS! This is a great way to figure out what you're interested in and meet new people (especially once you're back on campus)! One particularly good way to do this is to check out the student organizations around SEAS:
 
-### Upcoming
+- [Presenters from class on 11/20](/files/student_orgs.pdf)
+- <a href="https://www.seas.gwu.edu/student-organizations" target="_blank">Official GWU SEAS list of affiliated student orgs</a>
+
+
+### Class Preview
 
 This class involves some awesome projects, like data analysis in Python and app building with Thunkable!
 
