@@ -29,3 +29,9 @@ We'll keep this page updated as we get more assignment submissions.
 - <a href="https://x.thunkable.com/projectPage/5faad42eca43540012a0def9" target="_blank">Lily Samoyan made a slideshow to guide you through the motions at the beginning of "Avatar: The Last Airbender" 🌊🪨🔥💨</a>
 - <a href="https://x.thunkable.com/projectPage/5faad81565eb77116c91c72e" target="_blank">Marcela Pineda made an emergency app to call 911 when the phone is shaken 🚨</a>
     - Yes, this is safe to try on your phone -- it won't dial the number automatically
+
+### Assignment 4
+- <a href="https://x.thunkable.com/projectPage/5fb5db1a013fb000110ac7a9" target="_blank">Lily Samoyan made an app to aid someone walking alone who feels like they are being followed 🔔</a>
+- <a href="https://x.thunkable.com/projectPage/5fb5dcf264d1900011cd6993" target="_blank">Evan Fries designed a timer to help with workouts 🏋️‍♀️</a>
+- <a href="https://x.thunkable.com/projectPage/5fb5df970f85e50011586bfe" target="_blank">Henry Mackay used Thunkable variables to make a custom-length timer ⌚</a>
+- <a href="https://x.thunkable.com/projectPage/5fb5dfc156167b0012c49cc3" target="_blank">Maria Hayes Navas made a "relaxation timer" that plays relaxing wave sounds 🏝</a>
