@@ -24,7 +24,7 @@ Here are some handy project templates you may want at some point.
 
 <hr>
 
-When your team is finished with the app, submit it here! Submit by **December 1**, and on this week before the final class, you will meet with your instruction team mentor to demonstrate the functionality of the app.
+When your team is finished with the app, submit it here! Submit by **December 1**.
 
 **THUNKABLE Submission Link:** <a href="https://docs.google.com/forms/d/e/1FAIpQLScMjcqVQXFbOfEdqt_K0htHgK9eG3nUSzmpYKApSuRdI66Ydw/viewform?usp=sf_link" target="_blank">Google Form</a>
 
