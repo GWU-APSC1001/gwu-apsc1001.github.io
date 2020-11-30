@@ -91,11 +91,11 @@ title: Course Schedule
     </tr>
     <tr>
       <td style="text-align: left">12/1/20</td>
-      <td style="text-align: center" colspan="3"><a href="assignments/thunkable-final.html"><strong>Submit Thunkable App Project for demo with Project Mentor</strong></a></td>
+      <td style="text-align: center" colspan="3"><a href="assignments/thunkable-final.html"><strong>Submit Thunkable App Project</strong></a></td>
     </tr>
     <tr>
       <td style="text-align: left">12/3/20</td>
-      <td style="text-align: center" colspan="3">Final presentations due</td>
+      <td style="text-align: center" colspan="3"><a href="assignments/thunkable-final.html">Final presentations due</a></td>
     </tr>
     <tr>
       <td style="text-align: left">12/4/20</td>
