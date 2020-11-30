@@ -24,10 +24,13 @@ Here are some handy project templates you may want at some point.
 
 <hr>
 
-**HEADS UP:** On the last day of class (December 4), each team will do a *live demo* of their app by screensharing.
+When your team is finished with the app, submit it here! Submit by **December 1**, and on this week before the final class, you will meet with your instruction team mentor to demonstrate the functionality of the app.
+
+**THUNKABLE Submission Link:** <a href="https://docs.google.com/forms/d/e/1FAIpQLScMjcqVQXFbOfEdqt_K0htHgK9eG3nUSzmpYKApSuRdI66Ydw/viewform?usp=sf_link" target="_blank">Google Form</a>
 
 <hr>
 
-When your team is finished with the app, submit it here! Submit by **December 1**, and on this week before the final class, you will meet with your instruction team mentor to demonstrate the functionality of the app.
+Submit your team's PowerPoint presentation here by end-of-day **December 3**, 11:59 PM EST.
 
-**Submission Link:** <a href="https://docs.google.com/forms/d/e/1FAIpQLScMjcqVQXFbOfEdqt_K0htHgK9eG3nUSzmpYKApSuRdI66Ydw/viewform?usp=sf_link" target="_blank">Google Form</a>
+**PRESENTATION Submission Link:** <a href="https://docs.google.com/forms/d/e/1FAIpQLScvtfKuD1_3GUx0cDizCMcAt_7buuAN9gppHyU0CMY3DPTDOg/viewform" target="_blank">Google Form</a>
+
