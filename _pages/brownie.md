@@ -5,6 +5,14 @@ layout: defaults/page
 narrow: true
 ---
 
+#### Table of Contents
+- [Assignment 1](#assignment-1)
+- [Assignment 2](#assignment-2)
+- [Assignment 3](#assignment-3)
+- [Assignment 4](#assignment-4)
+- [Final Project](#final-project)
+<a name="headers"/>
+
 APSC 1001 has a longstanding tradition of recognizing student participation, engagement, and creativity with "brownie points". Moving the class online means tweaking the tradition a little, so here we're featuring student-made [Thunkable assignment](list/assignments.html) submissions that we felt were exceptionally creative and beyond the scope of what we were expecting.
 
 Of course, it's always difficult to pick the top 3-5 out of so many excellent creations -- [we](/contact.html) love seeing your hard work, even if it isn't showcased here!
@@ -35,3 +43,9 @@ We'll keep this page updated as we get more assignment submissions.
 - <a href="https://x.thunkable.com/projectPage/5fb5dcf264d1900011cd6993" target="_blank">Evan Fries designed a timer to help with workouts 🏋️‍♀️</a>
 - <a href="https://x.thunkable.com/projectPage/5fb5df970f85e50011586bfe" target="_blank">Henry Mackay used Thunkable variables to make a custom-length timer ⌚</a>
 - <a href="https://x.thunkable.com/projectPage/5fb5dfc156167b0012c49cc3" target="_blank">Maria Hayes Navas made a "relaxation timer" that plays relaxing wave sounds 🏝</a>
+
+
+### Final Project
+???
+
+To be decided in class on 12/4/2020!
