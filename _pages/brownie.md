@@ -46,6 +46,10 @@ We'll keep this page updated as we get more assignment submissions.
 
 
 ### Final Project
-???
 
-To be decided in class on 12/4/2020!
+After the final project presentations, both the [instruction team](/contact.html) and the students voted on their favorite app.
+
+- **INSTRUCTION TEAM AWARD:** TBA (will be posted soon)
+- **STUDENT CHOICE AWARD:** <a href="https://x.thunkable.com/projectPage/5fc9462642f6870012dae087" target="_blank">Group 7's Crowd Alert app</a> made by Lucas Mah, Lily Samoyan, and Joachim Santiago
+
+Congratulations on your outstanding work, everyone!
