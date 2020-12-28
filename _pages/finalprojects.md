@@ -12,6 +12,14 @@ images:
   - /images/g6.png
   - /images/g7.png
 captions:
+  - by Eric Holm, Brendan Humphrey, Ryan Rafati, and Mohamed Al-Shizawi
+  - by Isaac Bilsel, Rigel Brown, and Jack Palaian
+  - by Kaj Boeri, Jack Brookshaw, and Ben Chapman
+  - by Aidan McKernan, Kaitlyn Noether, and Alexandra Trotter
+  - by Evan Fries, Maria Hayes-Navas, and Caitlyn Hollander
+  - by Henry Mackay, Salah Mohammed, and Marcela Pineda
+  - by Lucas Mah, Lily Samoyan, and Joachim Santiago 
+linked_captions:
   - Group 1 - COVerify
   - Group 2 - Quarantine Quality
   - Group 3 - Quarantine Quality
@@ -33,7 +41,6 @@ Students were tasked with building a Thunkable app to <a href="/files/thunkable_
 
 <hr>
 
-<!-- <div style="width: 300px"> -->
 <div>
     <div id="carouselExampleControls" class="carousel slide mb-4" data-ride="carousel">
         <div class="carousel-inner">
@@ -43,7 +50,9 @@ Students were tasked with building a Thunkable app to <a href="/files/thunkable_
                         <img src="{{ img }}" class="d-block w-100">
                         <div class="card-body bg-light">
                             <div class="card-text" style="text-align: center">
-                                <a href="{{ page.links[forloop.index0] }}" target="_blank">{{ page.captions[forloop.index0] }}</a>
+                                <a href="{{ page.links[forloop.index0] }}" target="_blank">{{ page.linked_captions[forloop.index0] }}</a>
+                                <br>
+                                {{ page.captions[forloop.index0] }}
                             </div>
                         </div>
                     </div>
@@ -60,3 +69,12 @@ Students were tasked with building a Thunkable app to <a href="/files/thunkable_
         </a>
     </div>
 </div>
+
+### Group Presentations
+- <a href="/files/g1_pres.pdf" target="_blank">Group 1's Presentation</a>
+- <a href="/files/g2_pres.pdf" target="_blank">Group 2's Presentation</a>
+- <a href="/files/g3_pres.pdf" target="_blank">Group 3's Presentation</a>
+- <a href="/files/g4_pres.pdf" target="_blank">Group 4's Presentation</a>
+- <a href="/files/g5_pres.pdf" target="_blank">Group 5's Presentation</a>
+- <a href="/files/g6_pres.pdf" target="_blank">Group 6's Presentation</a>
+- <a href="/files/g7_pres.pdf" target="_blank">Group 7's Presentation</a>
