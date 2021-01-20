@@ -14,6 +14,12 @@ narrow: true
 
 <a name="headers"/>
 
+<hr>
+
+**APSC 1001 in the news!** Student apps from our class (that's right, YOUR work!) were featured in a <a href="https://www.seas.gwu.edu/seas-students-create-apps-promote-social-awareness-during-covid-19" target="_blank">recent SEAS newsletter</a>. Give it a read and share it with your friends and family! Once again, congrats on a job well done with these excellent apps.
+
+<hr>
+
 APSC 1001 has a longstanding tradition of recognizing student participation, engagement, and creativity with "brownie points". Moving the class online means tweaking the tradition a little, so here we're featuring student-made [Thunkable assignment](list/assignments.html) submissions that we felt were exceptionally creative and beyond the scope of what we were expecting.
 
 Of course, it's always difficult to pick the top 3-5 out of so many excellent creations -- [we](/contact.html) love seeing your hard work, even if it isn't showcased here!
