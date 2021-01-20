@@ -1,9 +1,15 @@
 ---
 layout: defaults/page
 permalink: index.html
-title: Links & Downloads
+title: Home
 narrow: true
 ---
+
+<hr>
+
+**APSC 1001 in the news!** Student apps from our class (that's right, YOUR work!) were featured in a <a href="https://www.seas.gwu.edu/seas-students-create-apps-promote-social-awareness-during-covid-19" target="_blank">recent SEAS newsletter</a>. Give it a read and share it with your friends and family! Once again, congrats on a job well done with these excellent apps.
+
+<hr>
 
 ##### Welcome to APSC 1001, the best engineering orientation class this side of the (virtual) Potomac.
 
