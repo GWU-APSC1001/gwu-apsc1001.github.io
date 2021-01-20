@@ -19,7 +19,7 @@ These are some useful libraries for royalty-free images you can use in your apps
 - [Lottie Files Animations](https://lottiefiles.com/)
 
 Here are some handy project templates you may want at some point.
-- [PATH Exercise](/files/path_statement.pdf)
+- [PATH Exercise](/files/path_statement.pdf) (Source: Participatory Design Toolkit (2019), D-lab, MIT)
 - [Final PowerPoint Template](/files/Final_Project_APSC1.pptx)
 
 <hr>
