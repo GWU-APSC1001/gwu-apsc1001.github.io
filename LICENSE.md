@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2017 Simon Freytag
+Copyright for portions of the APSC 1001 website are held by Simon Freytag, 2017 as part of the Friday Theme. All other copyright for the APSC 1001 website are held by the George Washington University, 2021.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
