@@ -7,8 +7,8 @@ highlighter:      rouge
 excerpt_separator: <!--more-->
 
 # Config for your profile.
-title:            APSC 1001
-name:             APSC 1001 Class Website
+title:            APSC1001 & CS1010
+name:             APSC1001 & CS1010 Class Website
 avatar:           /theme/img/avatar.png
 
 # The theme uses the baseurl throughout, which is useful for running the entire
