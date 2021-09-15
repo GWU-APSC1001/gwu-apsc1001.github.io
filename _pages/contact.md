@@ -14,24 +14,44 @@ Reach out to us anytime on Slack or email! Give us 24 hours to respond to your m
 - Office hours: On-demand (please reach out via email or Slack!)
 - Location: Blackboard Collaborate Course Room
 
-### Teaching Assistant
-##### Samantha Racan
-- E-mail: samracan19@gwu.edu
-- Office hours: Wednesdays, 8:00 PM - 9:00 PM (EST)
-- Location: Blackboard Collaborate Course Room
+### Teaching Assistants
+##### Catherine Karpova
+- E-mail: katyakarpova@gwmail.gwu.edu
+- Office hours: Tuesday 12 PM -1 PM; Thursday 1 PM – 2PM
+- Location: TBA
+
+##### Sara Tenaglio
+- E-mail: sara_tenaglio@gwmail.gwu.edu 
+- Office hours: Wednesday 9 AM -10 AM; Thursday 7 PM – 8 PM
+- Location: TBA
+
+##### Zachary Stecher
+- E-mail: zstecher@gwmail.gwu.edu
+- Office hours: Tuesday 1 PM -2 PM; Thursday 1 PM – 2PM
+- Location: TBA
 
 ### Learning Assistants
 ##### Olivia Legault
-- E-mail: olegault@gwu.edu
-- Office hours: Mondays, 12:00 PM - 2:00 PM (EST)
+- E-mail: olegault@gwmail.gwu.edu
+- Office hours: TBA
 - Location: Google Meet
 
-##### George Wang
-- E-mail: maoxiwang@gwu.edu
-- Office hours: Wednesdays, 3:30 PM - 5:30 PM (EST)
-- Location: Google Meet
+##### Jonathan Terry
+- E-mail: jterry82@gwmail.gwu.edu 
+- Office hours: TBA
+- Location: TBA
 
-##### Rick Sear
-- E-mail: searri@gwu.edu
-- Office hours: Thursdays, 3:00 PM - 5:00 PM (EST)
-- Location: Google Meet
+##### Jack Umina
+- E-mail: jumina@gwmail.gwu.edu
+- Office hours: TBA
+- Location: TBA
+
+##### Ethan Frink
+- E-mail: efrink@gwmail.gwu.edu 
+- Office hours: TBA
+- Location: TBA
+
+##### Alexis Renderos
+- E-mail: alexisrenderos@gwmail.gwu.edu
+- Office hours: TBA
+- Location: TBA

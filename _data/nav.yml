@@ -2,11 +2,11 @@
 - title: Schedule
   href: schedule.html
 
-- title: Project Gallery
-  href: finalprojects.html
+#- title: Project Gallery
+#  href: finalprojects.html
 
-- title: Final Project
-  href: assignments/thunkable-final.html
+#- title: Final Project
+#  href: assignments/thunkable-final.html
 
 - title: Syllabus
   href: syllabus.html
@@ -17,8 +17,8 @@
 - title: Instruction Team
   href: contact.html
 
-- title: Brownie Points
-  href: brownie-points.html
+# - title: Brownie Points
+#  href: brownie-points.html
 
 # - title: Assignments
 #   href: list/assignments.html

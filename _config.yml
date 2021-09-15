@@ -35,6 +35,11 @@ collections:
     title: Labs
     permalink: /:collection/:name.html
 
+  fall2020_labs:
+    output: true
+    title: Fall 2020 Labs
+    permalink: /:collection/:name.html
+
 defaults:
 # Turn the profile sidebar on for all pages by default, except for the
 # collections, where it is off and replaced by useful things on the sidebar.

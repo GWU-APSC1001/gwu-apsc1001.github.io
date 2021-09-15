@@ -5,28 +5,26 @@ title: Website Home
 narrow: true
 ---
 
-
-**APSC 1001 in the news!** Student apps from our class (that's right, YOUR work!) were featured in a <a href="https://www.seas.gwu.edu/seas-students-create-apps-promote-social-awareness-during-covid-19" target="_blank">recent SEAS newsletter</a>. Give it a read and share it with your friends and family! Once again, congrats on a job well done with these excellent apps.
-
-<hr>
-
-##### Welcome to APSC 1001, the best engineering orientation class this side of the (virtual) Potomac.
+##### Welcome to CS 1010 / APSC 1001, the best engineering orientation class this side of the (virtual) Potomac.
 
 Got too many ~things~ to keep track of for online classes? Not to worry, this page is your one-stop shop for APSC 1001.
 
 ### Important Links
-- Class will meet on *Blackboard Collaborate Ultra*, available through your **[GW Blackboard Portal](https://blackboard.gwu.edu/)**.
-    - Link: [https://blackboard.gwu.edu/](https://blackboard.gwu.edu/)
-- Join the course's **[Slack Workspace](https://apsc1001seasgwu.slack.com/)**. Here's where you'll hear class announcements, get questions answered, or just get to know your classmates.
+- **[Slack group]**: Join the course's **[Slack Workspace](https://apsc1001seasgwu.slack.com/)**. Here's where you'll hear class announcements, get questions answered, or just get to know your classmates.
     - Link: [https://apsc1001seasgwu.slack.com/](https://apsc1001seasgwu.slack.com/)
-- Download the **[GW SEAS VPN](https://www.gwu.edu/~virtual/downloads/anyconnect.cfm)**
+    - *NOTE*: You will receive an email invitation. Please contact the [instruction team](contact.html) if you need assistance!
+- **[GW SEAS VPN]**: Download the **[GW SEAS VPN](https://www.gwu.edu/~virtual/downloads/anyconnect.cfm)**
     - <a href="{{ site.baseurl }}{% link files/gwu_vpn.pdf %}" target="_blank"> Installation instructions </a>
     - *NOTE* that you only have to install this once! After the VPN is installed, all you have to do is connect
-- Login to the course's **[Python server](https://kartik-py.seas.gwu.edu)**. *NOTE* that you'll need to be logged into the GW SEAS VPN to access this site. Confused or stuck? [Shoot one of us an email](contact.html).
-    - Link: [https://kartik-py.seas.gwu.edu](https://kartik-py.seas.gwu.edu)
-- Vensim system modeling software
-    - <a href="https://vensim.com/free-download/" target="_blank">https://vensim.com/free-download/</a>
+- **[Python programming]**: Sign up for a free account on **[DeepNote for Python programming](https://deepnote.com/)** 
+    - Use your *gwmail.gwu.edu* email for this account. 
+    - *NOTE*: You will need this to collaborate with your group.
+    - **Further instructions will be posted soon!** 
+- **[Vensim system modeling software}**
+    - Download and install **Vensim** using the link, <a href="https://vensim.com/free-download/" target="_blank">https://vensim.com/free-download/</a>
     - <a href="{{ site.baseurl }}{% link files/vensim_install.pdf %}" target="_blank"> Installation instructions </a>
+- **[Blackboard]**: Class will have access to *Blackboard Collaborate Ultra*, available through your **[GW Blackboard Portal](https://blackboard.gwu.edu/)**.
+    - Link: [https://blackboard.gwu.edu/](https://blackboard.gwu.edu/)
 
 ### Thinking Ahead & Getting Involved
 After APSC 1001, we encourage you to explore SEAS! This is a great way to figure out what you're interested in and meet new people (especially once you're back on campus)! One particularly good way to do this is to check out the student organizations around SEAS:
@@ -37,7 +35,12 @@ After APSC 1001, we encourage you to explore SEAS! This is a great way to figure
 
 ### Class Preview
 
-This class involves some awesome projects, like data analysis in Python and app building with Thunkable!
+This class involves some awesome projects, like data analysis in Python and working with Raspberry Pi 3B+ single-board computers. In Fall 2020, students also created apps with Thunkable - a cloud-based app builder!
+
+<hr>
+**APSC 1001 in the news!** Student apps from this class (that's right, YOUR class!) were featured in a <a href="https://www.seas.gwu.edu/seas-students-create-apps-promote-social-awareness-during-covid-19" target="_blank">recent SEAS newsletter</a>. Give it a read and share it with your friends and family! Congratulations to Fall 2020 students on a job well done with these excellent apps.
+
+<hr>
 
 <img src="images/CovidUSAnimation.gif" height="300"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="images/ThunkableAnimation.gif" height="300"/>

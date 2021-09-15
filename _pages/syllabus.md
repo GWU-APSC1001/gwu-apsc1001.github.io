@@ -9,19 +9,32 @@ title: Syllabus
 </a>
 
 ### Course Meeting Information
-- Course: APSC 1001, Section 10: Engineering Orientation for Undeclared Majors
-- Semester: Fall 2020
-- Meeting Time: Friday 9:35-10:25am, 10:40am-12:15pm (EST)
-- Location: Live virtual course on Blackboard Collaborate Ultra
+**Course:** 
+- CS 1010 Computer Science Orientation 
+- APSC 1001 Section 10 Engineering Orientation for Undeclared Majors
+- **Semester:**  Fall 2021
+- **Meeting time:** 
+    - Friday 9:35—10:25am (Lectures), 10:40am—12:15pm and 12:35pm – 2:10pm (Laboratories) 
+- **Lecture Location:** Phillips Hall Room B156
+- **Lab Location:** Tompkins Hall Rooms 405, 409
+
 
 ### Course Description
 The course will introduce the students to different majors in SEAS, to computational thinking and modeling using Python programming language and Thunkable (a free drag and drop platform where anyone can build their own mobile applications or apps).
 
-The students will work on the following two projects motivated by the current public health crisis the world is going through:
-1. Guided Python programming project to analyze COVID-19 data from a well-known data source
-2. App building project using Thunkable to create a COVID-19 social awareness tool
+This is an introductory course designed for first year engineering students majoring in computer science and those who have not chosen a major.  The course will introduce the students to different majors in SEAS, to computational thinking and modeling using Python and projects using Raspberry Pi (Model: 3B+).  
+Course will consist of 
+1. lectures on the various engineering disciplines in SEAS, 
+2. hands-on Python programming exercises and 
+3. hands-on exercises and in-class projects using Raspberry Pi 3B+ single-board computer. 
 
-Through the above course activities students will be exposed to computational thinking and the various engineering disciplines in SEAS. The course will use “Blackboard Collaborate” for lectures and synchronous communication between the instruction team and the students. The students will also get access to a “slack-workspace” for this course, that will facilitate offline discussions among themselves and the instruction team.
+The students will work on the following two engineering innovation projects:
+1. Guided-python programming project and 
+2. Will have the option of choosing a final Raspberry Pi 3B+ based project or a python programming project to address an impending need in engineering-innovation
+
+Through the above course activities students will be exposed to computational thinking and the various engineering disciplines in SEAS. The students will also get access to a “slack-workspace” for this course, that will facilitate offline discussions among themselves and the instruction team. 
+The students will also be provided video lectures and video summaries whenever possible made available on the course webpage and / or blackboard.
+
 
 #### Prerequisites
 None

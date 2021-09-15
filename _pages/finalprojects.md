@@ -1,6 +1,6 @@
 ---
 permalink: finalprojects.html
-title: Fall 2020 Student Projects
+title: Archived Fall 2020 Student Projects using Thunkable App Builder
 layout: defaults/page
 narrow: true
 images:
