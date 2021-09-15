@@ -4,7 +4,7 @@ permalink: syllabus.html
 narrow: true
 title: Syllabus
 ---
-<a href="{{ site.baseurl }}{% link files/APSc1001_Fall2020_SyllabusDraft.pdf %}" target="_blank">
+<a href="{{ site.baseurl }}{% link files/APSc1001_Fall2021_Syllabus_09142021.pdf %}" target="_blank">
     PDF Version
 </a>
 

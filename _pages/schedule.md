@@ -29,19 +29,19 @@ title: Course Schedule
     </tr>
     <tr>
       <td style="text-align: left">10/01/20</td>
-      <td style="text-align: left">Computing in Electrical and Computer Engineering by <a href="https://www.seas.gwu.edu/gina-adam" target="_blank">Prof. Gina Adam</a></td>
+      <td style="text-align: left">Electrical and Computer Engineering by <a href="https://www.seas.gwu.edu/gina-adam" target="_blank">Prof. Gina Adam</a> (tentative) </td>
       <td style="text-align: left">-<a href="labs/week2-python.html">Deep dive: Handling arrays and plotting data using Python</a><br>-Ultrasonic (cacophony) with Raspberry Pi 3B+<br>-Intro to Final Projects<br>-<a href="https://docs.google.com/forms/d/e/1FAIpQLScGJIKbpaAfe8nFVy6VNMHMqUghd0vKIZ6uMbcFrYxp_FhJdA/viewform" target="_blank">COGS Activity</a></td>
       <td>Python HW1</td>
     </tr>
     <tr>
       <td style="text-align: left">10/08/20</td>
-      <td style="text-align: left">Computing in Biomedical Engineering by <a href="https://www.seas.gwu.edu/anne-laure-papa" target="_blank">Prof. Anne-Laure Papa</a></td>
+      <td style="text-align: left">Biomedical Engineering by <a href="https://www.seas.gwu.edu/anne-laure-papa" target="_blank">Prof. Anne-Laure Papa </a> (tentative) </td>
       <td style="text-align: left">-<a href="labs/week3-python.html">Deep dive: Working with Pandas and analyzing COVID-19 data in Python</a><br>-Raspberry Pi Lab on Heart rate measurements</td>
       <td>Python HW2</td>
     </tr>
    <tr>
       <td style="text-align: left">10/15/20</td>
-      <td style="text-align: left">Computing in Civil Engineering with <a href="https://transportation.seas.gwu.edu/" target="_blank">Prof. Samer Hamdar</a><br><a href="/files/cee_activities.pdf">Check out the CEE traffic simulation games</a></td>
+      <td style="text-align: left">Civil Engineering with <a href="https://transportation.seas.gwu.edu/" target="_blank">Prof. Samer Hamdar </a> (tentative) <br><a href="/files/cee_activities.pdf">Check out the CEE traffic simulation games</a></td>
       <td style="text-align: left">-<a href="labs/week5-python.html">Deep dive: Python for-loops</a><br>-Raspberry Pi Lab using senseHats<br>-<a href="files/student_orgs.pdf">Get involved: SEAS Student Orgs</a></td>
       <td>Python HW3</td>
     </tr>
@@ -51,19 +51,19 @@ title: Course Schedule
     </tr>
     <tr>
       <td style="text-align: left">10/29/20</td>
-      <td style="text-align: left">Introduction to Computer Science by <a href="https://www.seas.gwu.edu/bhagirath-narahari" target="_blank">Associate Dean Bhagirath Narahari</a></td>
+      <td style="text-align: left">Computer Science by <a href="https://www.seas.gwu.edu/bhagirath-narahari" target="_blank">Associate Dean Bhagirath Narahari </a> (tentative) </td>
       <td style="text-align: left"><a href="labs/week6-python.html">-Deep Dive: Image encryption and decryption in Python</a><br>-Raspberry Pi Lab for Image encryption<br>-<a href="/files/path_statement.pdf" target="_blank">Discussion on the Final Project and the PATH Worksheet</a></td>
       <td>Guided-project in Python</td>
     </tr>
     <tr>
       <td style="text-align: left">11/12/20</td>
-      <td style="text-align: left">Introduction to Mechanical and Aerospace Engineering by <a href="https://www.seas.gwu.edu/michael-w-plesniak" target="_blank">Prof. Michael Plesniak</a> and <a href="https://leftwichlab.seas.gwu.edu/" target="_blank">Prof. Megan Leftwich</a></td>
+      <td style="text-align: left">Mechanical and Aerospace Engineering by <a href="https://www.seas.gwu.edu/michael-w-plesniak" target="_blank">Prof. Michael Plesniak</a> and <a href="https://leftwichlab.seas.gwu.edu/" target="_blank">Prof. Megan Leftwich</a> (tentative) </td>
       <td style="text-align: left">-<a href="labs/week5-python.html">Deep dive: Python for-loops</a><br>-Final Raspberry Pi<br>-Python Group Project progress discussion</td>
       <td>Python HW4<br><a href="https://docs.google.com/forms/d/e/1FAIpQLScGJIKbpaAfe8nFVy6VNMHMqUghd0vKIZ6uMbcFrYxp_FhJdA/viewform?usp=sf_link" target="_blank">System Dynamics COGS</a></td>
     </tr>
     <tr>
       <td style="text-align: left">11/05/20</td>
-      <td style="text-align: left">Introduction to Systems Engineering by <a href="https://www.seas.gwu.edu/erica-l-gralla" target="_blank">Profs. Erica Gralla</a> and <a href="https://www.seas.gwu.edu/thomas-mazzuchi" target="_blank">Thomas Mazzuchi</a></td>
+      <td style="text-align: left">Systems Engineering by <a href="https://www.seas.gwu.edu/erica-l-gralla" target="_blank">Profs. Erica Gralla</a> (tentative) </td>
       <td style="text-align: left">-<a href="labs/week4-emse-lab.html">EMSE Simulation Lab</a><br>-<a href="labs/week4-python.html">Choropleths in Python</a></td>
       <td>Python HW5</td>
     </tr>
