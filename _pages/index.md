@@ -34,7 +34,7 @@ Got too many ~things~ to keep track of for online classes? Not to worry, this pa
 
 <div class="card mb-3 bg-light">
     <ul> 
-    <li> Source: "Setting up your Raspberry Pi" from <a href="https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up/0">raspberrypi.org</a></li>
+    <li> Animation source: "Setting up your Raspberry Pi" from <a href="https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up/0">raspberrypi.org</a></li>
     </ul>
 </div>
 
