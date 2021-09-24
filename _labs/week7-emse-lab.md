@@ -1,5 +1,5 @@
 ---
-title: "Module 4: EMSE Vensim Simulation Lab"
+title: "Module 7: EMSE Vensim Simulation Lab"
 ---
 
 **Before 10/30:** Please install the Vensim software on your computer. <a href="/files/vensim_install.pdf" target="_blank">Check out our installation instructions for help.</a>

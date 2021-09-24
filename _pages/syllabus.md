@@ -4,14 +4,14 @@ permalink: syllabus.html
 narrow: true
 title: Syllabus
 ---
-<a href="{{ site.baseurl }}{% link files/APSc1001_Fall2021_Syllabus_09142021.pdf %}" target="_blank">
+<a href="{{ site.baseurl }}{% link files/APSc1001_Fall2021_Syllabus_09232021.pdf %}" target="_blank">
     PDF Version
 </a>
 
 ### Course Meeting Information
 **Course:** 
-- CS 1010 Computer Science Orientation 
-- APSC 1001 Section 10 Engineering Orientation for Undeclared Majors
+- **CS 1010 Computer Science Orientation** 
+- **APSC 1001 Section 10 Engineering Orientation for Undeclared Majors**
 - **Semester:**  Fall 2021
 - **Meeting time:** 
     - Friday 9:35—10:25am (Lectures), 10:40am—12:15pm and 12:35pm – 2:10pm (Laboratories) 
@@ -20,7 +20,7 @@ title: Syllabus
 
 
 ### Course Description
-The course will introduce the students to different majors in SEAS, to computational thinking and modeling using Python programming language and Thunkable (a free drag and drop platform where anyone can build their own mobile applications or apps).
+The course will introduce the students to different majors in SEAS, to computational thinking and modeling using Python programming language and Raspberry Pi 3B+ (single-board computers).
 
 This is an introductory course designed for first year engineering students majoring in computer science and those who have not chosen a major.  The course will introduce the students to different majors in SEAS, to computational thinking and modeling using Python and projects using Raspberry Pi (Model: 3B+).  
 Course will consist of 
