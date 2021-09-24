@@ -10,7 +10,7 @@ title: Course Schedule
     <tr>
       <th style="text-align: left">Date</th>
       <th style="text-align: left">Lecture Topic</th>
-      <th style="text-align: left">Coding & &mu;Lab</th>
+      <th style="text-align: left">Coding & microLabs (&mu;Labs)</th>
       <th style="text-align: left">What's Due</th>
     </tr>
   </thead>
