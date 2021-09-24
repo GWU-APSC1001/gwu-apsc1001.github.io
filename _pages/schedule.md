@@ -10,39 +10,39 @@ title: Course Schedule
     <tr>
       <th style="text-align: left">Date</th>
       <th style="text-align: left">Lecture Topic</th>
-      <th style="text-align: left">Hands-on Lab Work</th>
+      <th style="text-align: left">Coding & &mu;Lab</th>
       <th style="text-align: left">What's Due</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align: left">9/21/2021</td>
-      <td style="text-align: left">Pre-course virtual meetup</td>
+      <td style="text-align: left">Pre-course activities</td>
       <td style="text-align: left"><a href="labs/week0-onboarding.html">APSC1001 Onboarding</a></td>
       <td> </td>
     </tr>
     <tr>
       <td style="text-align: left">9/24/2021</td>
       <td style="text-align: left">Introduction to APSC1001 by Associate Dean Bhagirath Narahari and Prof. Kartik Bulusu</td>
-      <td style="text-align: left">-Blinking LEDs with Raspberry Pi 3B+<br>-Intro to Group and Guided-Projects<br>-COGS Activity</td>
+      <td style="text-align: left">-<strong>DeepNote:</strong>: Python as a Calculator<br>-<strong>&mu;Lab:</strong> Blinking LEDs with Raspberry Pi 3B+<br>-Intro to Group and Guided-Projects<br>-Challenges Opportunities Gaps and Surprises (COGS)</td>
       <td style="text-align: left"> End of class: <a href="https://docs.google.com/forms/d/e/1FAIpQLSfN_wKwb7h0_DHXS8olXMRO915r9P1mVut2aueyIXuNXvYFSg/viewform?usp=sf_link" target="_blank">Working Styles Workout</a></td>
     </tr>
     <tr>
       <td style="text-align: left">10/01/2021</td>
       <td style="text-align: left">Electrical and Computer Engineering by <a href="https://www.seas.gwu.edu/gina-adam" target="_blank">Prof. Gina Adam</a> (confirmed) </td>
-      <td style="text-align: left">-Ultrasonic (cacophony) with Raspberry Pi 3B+<br>-Intro to Final Projects<br>-COGS Activity</td>
-      <td>Python HW1</td>
+      <td style="text-align: left">-<strong>DeepNote:</strong>: Working with Matplotlib<br><strong>&mu;Lab:</strong> Ultrasonic (cacophony) with Raspberry Pi 3B+<br>-Intro to Final Projects<br></td>
+      <td>- Python HW1<br>-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfN_wKwb7h0_DHXS8olXMRO915r9P1mVut2aueyIXuNXvYFSg/viewform?usp=sf_link" target="_blank"> COGS Worksheet for LED &mu;Lab</a></td>
     </tr>
     <tr>
       <td style="text-align: left">10/08/2021</td>
       <td style="text-align: left">Biomedical Engineering by <a href="https://www.seas.gwu.edu/jason-m-zara" target="_blank">Prof. Jason M. Zara </a> (tentative) </td>
-      <td style="text-align: left">-Deep dive: Working with Pandas and analyzing COVID-19 data in Python<br>-Raspberry Pi Lab on Heart rate measurements</td>
+      <td style="text-align: left">-<strong>DeepNote:</strong> Working with Pandas and analyzing COVID-19 data in Python<br>-<strong>&mu;Lab:</strong> Raspberry Pi Lab on Heart rate measurements</td>
       <td>Python HW2</td>
     </tr>
    <tr>
       <td style="text-align: left">10/15/2021</td>
       <td style="text-align: left">Civil Engineering with <a href="https://transportation.seas.gwu.edu/" target="_blank">Prof. Samer Hamdar </a> (tentative) <br><a href="/files/cee_activities.pdf">Check out the CEE traffic simulation games</a></td>
-      <td style="text-align: left">-Deep dive: Python for-loops<br>-Raspberry Pi Lab using senseHats<br>-<a href="files/student_orgs.pdf">Get involved: SEAS Student Orgs</a></td>
+      <td style="text-align: left">-<strong>DeepNote:</strong> Python-Loops<br>-<strong>&mu;Lab:</strong> Raspberry Pi Lab using senseHats<br>-<a href="files/student_orgs.pdf">Get involved: SEAS Student Orgs</a></td>
       <td>Python HW3</td>
     </tr>
     <tr>
@@ -52,13 +52,13 @@ title: Course Schedule
     <tr>
       <td style="text-align: left">10/29/2021</td>
       <td style="text-align: left">Computer Science by <a href="https://www.seas.gwu.edu/bhagirath-narahari" target="_blank">Associate Dean Bhagirath Narahari </a> (tentative) </td>
-      <td style="text-align: left">Deep Dive: Image encryption and decryption in Python<br>-Raspberry Pi Lab for Image encryption<br>-<a href="/files/path_statement.pdf" target="_blank">Discussion on the Final Project and the PATH Worksheet</a></td>
+      <td style="text-align: left"><strong>DeepNote:</strong> Image encryption and decryption in Python<br>-<strong>&mu;Lab:</strong> Raspberry Pi Lab for Image encryption<br>-<a href="/files/path_statement.pdf" target="_blank">Discussion on the Final Project and the PATH Worksheet</a></td>
       <td>Guided-project in Python</td>
     </tr>
     <tr>
       <td style="text-align: left">11/05/2021</td>
       <td style="text-align: left">Mechanical and Aerospace Engineering by <a href="https://www.seas.gwu.edu/michael-w-plesniak" target="_blank">Prof. Michael Plesniak</a> and <a href="https://leftwichlab.seas.gwu.edu/" target="_blank">Prof. Megan Leftwich</a> (confirmed) </td>
-      <td style="text-align: left">-Deep dive: Python for-loops<br>-Final Raspberry Pi<br>-Python Group Project progress discussion</td>
+      <td style="text-align: left"><strong>DeepNote:</strong> Python for-loops<br>-<strong>&mu;Lab:</strong> Data acquisition with Raspberry Pi 3B+<br>-Python Group Project progress discussion</td>
       <td>Python HW4<br>System Dynamics-COGS</td>
     </tr>
     <tr>
