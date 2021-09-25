@@ -5,7 +5,7 @@ narrow: true
 title: Instruction Team
 ---
 
-Reach out to us anytime on Slack or email! Give us 24 hours to respond to your message. Check Slack for the links to virtual office hours.
+Reach out to us anytime on Slack or email! <br> Give us 24 hours to respond to your message.<br> It is generally a good idea to contact the instruction team via email to let us know you will be attending office hours.
 
 ### Instructor
 ##### Professor Kartik Bulusu
@@ -26,7 +26,7 @@ The project was to 3D print an artificial limbus of the eye with dermal stem cel
 Outside of classes, Katya competed on the university's Division I women’s gymnastics team as an undergraduate student. 
 She enjoys dancing and exploring fun places in the city with her friends. 
 - **E-mail:** katyakarpova@gwmail.gwu.edu
-- **Office hours:** Tuesday 12 PM -1 PM; Thursday 1 PM – 2PM
+- **Office hours:** Tuesdays 12 PM -1 PM; Thursdays 1 PM – 2PM
 - **Location:** TBA
 
 ##### Sara Tenaglio
@@ -36,26 +36,26 @@ Her primary interests lie in tissue engineering and cancer research, having work
 Aside from TAing and fulfilling her studies, she is currently working part-time for a start-up company called Cambridge Medical Technologies where she is participating in the development of a novel glucose sensor that accurately detects glucose levels without the need for pricking the finger. 
 She also loves to travel, and having studied in Seoul, South Korea her fifth semester, she is a big advocate of study abroad and all of the wonderful opportunities that come with it. 
 - **E-mail:** sara_tenaglio@gwmail.gwu.edu 
-- **Office hours:** Wednesday 9 AM -10 AM; Thursday 7 PM – 8 PM
+- **Office hours:** Wednesdays 9 AM -10 AM; Thursdays 7 PM – 8 PM
 - **Location:** TBA
 
 ##### Zachary Stecher
 - **E-mail:** zstecher@gwmail.gwu.edu
-- **Office hours:** Tuesday 1 PM -2 PM; Thursday 1 PM – 2PM
+- **Office hours:** Tuesdays 1 PM -2 PM; Thursdays 1 PM – 2PM
 - **Location:** TBA
 
 ### Learning Assistants
 ##### Olivia Legault
 - **E-mail:** olegault@gwmail.gwu.edu
-- **Office hours:** TBA
-- **Location:** TBA
+- **Office hours:** Wednesdays 6 PM -7 PM 
+- **Location:** SEH 4th Floor
 
 ##### Jonathan Terry
 - Jon Terry is in his senior year and majoring in computer science with a minor in mathematics, originally from Connecticut. 
 This past summer he worked in the Computer Science department’s systems lab for a research fellowship, working on power management in embedded systems.
 - **E-mail:** jterry82@gwmail.gwu.edu 
-- **Office hours:** TBA
-- **Location:** TBA
+- **Office hours:** Mondays 3 PM - 4 PM
+- **Location:** SEH 4th Floor
 
 ##### Jack Umina
 - Jack is a senior studying computer science from Brick, New Jersey. In the fall of his freshman year he completed CSCI 1010. 
@@ -63,8 +63,8 @@ This year as part of his senior design project, Jack will be working on Traffick
 This past summer he interned as a software developer at Leidos where he worked on air traffic control software. 
 After graduation, he plans to return to Leidos as a full time developer. Outside of class, he is an avid member of GW Sailing.
 - **E-mail:** jumina@gwmail.gwu.edu
-- **Office hours:** TBA
-- **Location:** TBA
+- **Office hours:** Wednesdays 9:45 AM -10:4 AM
+- **Location:** SEH 4th Floor
 
 ##### Ethan Frink
 - Ethan is a senior mechanical engineering student from Sheboygan, Wisconsin. He took APSC1001 in his first semester at GW! 
@@ -74,8 +74,8 @@ He joined Design/Build/Fly (DBF) my junior year and helped design the wing for t
 He is now the Chief Engineer of the organization. Any interested new members can happily contact hium!
 On a non-technical side, I studied abroad in Sydney during my 4th semester at GW and am part of the Symphonic Band and the C-brass pep band!
 - **E-mail:** efrink@gwmail.gwu.edu 
-- **Office hours:** TBA
-- **Location:** TBA
+- **Office hours:** Mondays 5:30 PM - 6:30 PM
+- **Location:** Zoom (Contact Ethan via email for Zoom-link)
 
 ##### Alexis Renderos
 - Alexis is a senior studying mechanical engineering with a concentration in aerospace engineering from Fairfax, Virginia. 
@@ -85,5 +85,5 @@ Additionally, he is the Aerodynamics lead for the GW AIAA Design/Build/Fly team 
 He has participated in the Summer Undergraduate Program in Engineering Research in the summer of 2019 and 2020 and worked with Dr. Kartik Bulusu. 
 This past summer, he worked at Amazon Web Services as an Engineering Operations Technician.
 - **E-mail:** alexisrenderos@gwmail.gwu.edu
-- **Office hours:** TBA
-- **Location:** TBA
+- **Office hours:** Wednesdays 2 PM -3 PM 
+- **Location:** SEH 3rd Floor Suite 3980 (Biofluid Dynamics Lab)
