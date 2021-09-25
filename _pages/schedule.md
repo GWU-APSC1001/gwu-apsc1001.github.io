@@ -31,7 +31,7 @@ title: Course Schedule
       <td style="text-align: left">10/01/2021</td>
       <td style="text-align: left">Electrical and Computer Engineering by <a href="https://www.seas.gwu.edu/gina-adam" target="_blank">Prof. Gina Adam</a> (confirmed) </td>
       <td style="text-align: left">-<strong>DeepNote:</strong>: Working with Matplotlib<br><strong>&mu;Lab:</strong> Ultrasonic (cacophony) with Raspberry Pi 3B+<br>-Intro to Final Projects<br></td>
-      <td>- Python HW1<br>-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfN_wKwb7h0_DHXS8olXMRO915r9P1mVut2aueyIXuNXvYFSg/viewform?usp=sf_link" target="_blank"> COGS Worksheet for LED &mu;Lab</a></td>
+      <td>- Python HW1<br>-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdcr88Ta_iaXymUxEhX4O4Ul39PCDgPQGNqttiUw5QvvX2f4w/viewform?usp=sf_link" target="_blank"> COGS Worksheet for LED &mu;Lab</a></td>
     </tr>
     <tr>
       <td style="text-align: left">10/08/2021</td>
