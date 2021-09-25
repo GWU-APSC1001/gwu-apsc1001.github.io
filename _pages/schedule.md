@@ -10,7 +10,7 @@ title: Course Schedule
     <tr>
       <th style="text-align: left">Date</th>
       <th style="text-align: left">Lecture Topic</th>
-      <th style="text-align: left">Coding & microLabs (&mu;Labs)</th>
+      <th style="text-align: left">Computing activities (DeepNote) & microLabs (&mu;Labs)</th>
       <th style="text-align: left">What's Due</th>
     </tr>
   </thead>
@@ -23,27 +23,27 @@ title: Course Schedule
     </tr>
     <tr>
       <td style="text-align: left">9/24/2021</td>
-      <td style="text-align: left">Introduction to APSC1001 by Associate Dean Bhagirath Narahari and Prof. Kartik Bulusu</td>
-      <td style="text-align: left">-<strong>DeepNote:</strong>: Python as a Calculator<br>-<strong>&mu;Lab:</strong> Blinking LEDs with Raspberry Pi 3B+<br>-Intro to Group and Guided-Projects<br>-Challenges Opportunities Gaps and Surprises (COGS)</td>
+      <td style="text-align: left">Introduction to APSC1001 by <a href="https://www.seas.gwu.edu/bhagirath-narahari" target="_blank">Associate Dean Bhagirath Narahari </a> and Prof. Kartik Bulusu <br>- <a href="contact.html">Introduction to the Instruction Team</a><br>-<a href="{{ site.baseurl }}{% link files/BulusuIntroAPSC1001_09242021.pdf %}" target="_blank"> What to expect in CS1010 & APSC1001 </a><br></td>
+      <td style="text-align: left">-<strong>DeepNote:</strong> Python as a Calculator<br>-<strong>&mu;Lab:</strong> <a href="{{ site.baseurl }}{% link files/Deck3_IntroRPi3BplusLED_Module2_09242021.pdf %}" target="_blank">Blinking LEDs with Raspberry Pi 3B+</a><br>-Challenges Opportunities Gaps and Surprises (COGS)</td>
       <td style="text-align: left"> End of class: <a href="https://docs.google.com/forms/d/e/1FAIpQLSfN_wKwb7h0_DHXS8olXMRO915r9P1mVut2aueyIXuNXvYFSg/viewform?usp=sf_link" target="_blank">Working Styles Workout</a></td>
     </tr>
     <tr>
       <td style="text-align: left">10/01/2021</td>
       <td style="text-align: left">Electrical and Computer Engineering by <a href="https://www.seas.gwu.edu/gina-adam" target="_blank">Prof. Gina Adam</a> (confirmed) </td>
-      <td style="text-align: left">-<strong>DeepNote:</strong>: Working with Matplotlib<br><strong>&mu;Lab:</strong> Ultrasonic (cacophony) with Raspberry Pi 3B+<br>-Intro to Final Projects<br></td>
+      <td style="text-align: left">-<strong>DeepNote:</strong> Working with Matplotlib<br>-<strong>&mu;Lab:</strong> Ultrasonic (cacophony) with Raspberry Pi 3B+<br>-Intro to Group and Guided-Projects<br></td>
       <td>- Python HW1<br>-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdcr88Ta_iaXymUxEhX4O4Ul39PCDgPQGNqttiUw5QvvX2f4w/viewform?usp=sf_link" target="_blank"> COGS Worksheet for LED &mu;Lab</a></td>
     </tr>
-    <tr>
-      <td style="text-align: left">10/08/2021</td>
-      <td style="text-align: left">Biomedical Engineering by <a href="https://www.seas.gwu.edu/jason-m-zara" target="_blank">Prof. Jason M. Zara </a> (tentative) </td>
-      <td style="text-align: left">-<strong>DeepNote:</strong> Working with Pandas and analyzing COVID-19 data in Python<br>-<strong>&mu;Lab:</strong> Raspberry Pi Lab on Heart rate measurements</td>
-      <td>Python HW2</td>
-    </tr>
    <tr>
-      <td style="text-align: left">10/15/2021</td>
+      <td style="text-align: left">10/08/2021</td>
       <td style="text-align: left">Civil Engineering with <a href="https://transportation.seas.gwu.edu/" target="_blank">Prof. Samer Hamdar </a> (tentative) <br><a href="/files/cee_activities.pdf">Check out the CEE traffic simulation games</a></td>
       <td style="text-align: left">-<strong>DeepNote:</strong> Python-Loops<br>-<strong>&mu;Lab:</strong> Raspberry Pi Lab using senseHats<br>-<a href="files/student_orgs.pdf">Get involved: SEAS Student Orgs</a></td>
       <td>Python HW3</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">10/15/2021</td>
+      <td style="text-align: left">Biomedical Engineering by <a href="https://www.seas.gwu.edu/jason-m-zara" target="_blank">Prof. Jason M. Zara </a> (confirmed) </td>
+      <td style="text-align: left">-<strong>DeepNote:</strong> Working with Pandas and analyzing COVID-19 data in Python<br>-<strong>&mu;Lab:</strong> Raspberry Pi Lab on Heart rate measurements</td>
+      <td>Python HW2</td>
     </tr>
     <tr>
       <td style="text-align: left">10/22/2021</td>
