@@ -18,7 +18,7 @@ title: Course Schedule
     <tr>
       <td style="text-align: left">9/21/2021</td>
       <td style="text-align: left">Pre-course activities</td>
-      <td style="text-align: left"><a href="labs/week0-onboarding.html">APSC1001 Onboarding</a></td>
+      <td style="text-align: left"><a href="labs/week0-onboarding.html">CS1010/APSC1001 Onboarding </a></td>
       <td> </td>
     </tr>
     <tr>
@@ -31,19 +31,19 @@ title: Course Schedule
       <td style="text-align: left">10/01/2021</td>
       <td style="text-align: left">Electrical and Computer Engineering by <a href="https://www.seas.gwu.edu/gina-adam" target="_blank">Prof. Gina Adam</a> (confirmed) </td>
       <td style="text-align: left">-<strong>DeepNote:</strong> Working with Matplotlib<br>-<strong>&mu;Lab:</strong> Ultrasonic (cacophony) with Raspberry Pi 3B+<br>-Intro to Group and Guided-Projects<br></td>
-      <td>- Python HW1<br>-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdcr88Ta_iaXymUxEhX4O4Ul39PCDgPQGNqttiUw5QvvX2f4w/viewform?usp=sf_link" target="_blank"> COGS Worksheet for LED &mu;Lab</a></td>
+      <td>- <a href="/files/HW1.ipynb" target="_blank">Python HW 1</a><br>-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdcr88Ta_iaXymUxEhX4O4Ul39PCDgPQGNqttiUw5QvvX2f4w/viewform?usp=sf_link" target="_blank"> COGS Worksheet for LED &mu;Lab</a></td>
     </tr>
    <tr>
       <td style="text-align: left">10/08/2021</td>
       <td style="text-align: left">Civil Engineering with <a href="https://transportation.seas.gwu.edu/" target="_blank">Prof. Samer Hamdar </a> (tentative) <br><a href="/files/cee_activities.pdf">Check out the CEE traffic simulation games</a></td>
       <td style="text-align: left">-<strong>DeepNote:</strong> Python-Loops<br>-<strong>&mu;Lab:</strong> Raspberry Pi Lab using senseHats<br>-<a href="files/student_orgs.pdf">Get involved: SEAS Student Orgs</a></td>
-      <td>Python HW3</td>
+      <td>Python HW2</td>
     </tr>
     <tr>
       <td style="text-align: left">10/15/2021</td>
       <td style="text-align: left">Biomedical Engineering by <a href="https://www.seas.gwu.edu/jason-m-zara" target="_blank">Prof. Jason M. Zara </a> (confirmed) </td>
       <td style="text-align: left">-<strong>DeepNote:</strong> Working with Pandas and analyzing COVID-19 data in Python<br>-<strong>&mu;Lab:</strong> Raspberry Pi Lab on Heart rate measurements</td>
-      <td>Python HW2</td>
+      <td>Python HW3</td>
     </tr>
     <tr>
       <td style="text-align: left">10/22/2021</td>

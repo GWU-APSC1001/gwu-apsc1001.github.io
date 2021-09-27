@@ -27,7 +27,7 @@ Outside of classes, Katya competed on the university's Division I women’s gymn
 She enjoys dancing and exploring fun places in the city with her friends. 
 - **E-mail:** katyakarpova@gwmail.gwu.edu
 - **Office hours:** Tuesdays 12 PM -1 PM; Thursdays 1 PM – 2PM
-- **Location:** TBA
+- **Location:** Online on Tuesdays (Contact Katya via email or slack for link); Tompkins Hall Suite 406 on Thursdays
 
 ##### Sara Tenaglio
 - Sara Tenaglio is a graduate student studying Biomedical Engineering, who received her undergraduate degree from GW in the same field of study last year. 
@@ -42,7 +42,7 @@ She also loves to travel, and having studied in Seoul, South Korea her fifth sem
 ##### Zachary Stecher
 - **E-mail:** zstecher@gwmail.gwu.edu
 - **Office hours:** Tuesdays 1 PM -2 PM; Thursdays 1 PM – 2PM
-- **Location:** TBA
+- **Location:** Tompkins Hall Suite 410 on Tuesdays; Tompkins Hall Suite 410 on Thursdays
 
 ### Learning Assistants
 ##### Olivia Legault
@@ -75,7 +75,7 @@ He is now the Chief Engineer of the organization. Any interested new members can
 On a non-technical side, I studied abroad in Sydney during my 4th semester at GW and am part of the Symphonic Band and the C-brass pep band!
 - **E-mail:** efrink@gwmail.gwu.edu 
 - **Office hours:** Mondays 5:30 PM - 6:30 PM
-- **Location:** Zoom (Contact Ethan via email for Zoom-link)
+- **Location:** Zoom (Contact Ethan via email or slack for Zoom-link)
 
 ##### Alexis Renderos
 - Alexis is a senior studying mechanical engineering with a concentration in aerospace engineering from Fairfax, Virginia. 

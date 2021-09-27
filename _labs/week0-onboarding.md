@@ -1,5 +1,5 @@
 ---
-title: "Module 0: Onboarding"
+title: "Week 0: Onboarding"
 ---
 
 This week, you'll be starting CS1010 and APSC 1001! We want to jump straight in, so we're going to handle some logistics. 
