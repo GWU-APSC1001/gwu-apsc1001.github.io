@@ -9,7 +9,7 @@ Reach out to us anytime on Slack or email! <br> Give us 24 hours to respond to y
 
 ### Instructor
 ##### Professor Kartik Bulusu
-- Dr. Kartik V. Bulusu is an Assistant Research Professor in the Department of Mechanical and Aerospace Engineering (MAE) at The George Washington University (GWU). 
+- Dr. Kartik V. Bulusu is an Associate Research Professor in the Department of Mechanical and Aerospace Engineering (MAE) at The George Washington University (GWU). 
 His research work entails human health and sustainable energy with focus on biofluid mechanics, polymer rheology, low-cost energy technologies and applications of wavelet transforms. 
 Dr. Bulusu is currently developing low-cost ejector technologies refrigeration in disaster-prone regions. 
 In his free time, he is loves to tinker with electronics and design low-cost experiments for research and education. 
@@ -42,7 +42,7 @@ She also loves to travel, and having studied in Seoul, South Korea her fifth sem
 ##### Zachary Stecher
 - **E-mail:** zstecher@gwmail.gwu.edu
 - **Office hours:** Tuesdays 1 PM -2 PM; Thursdays 1 PM – 2PM
-- **Location:** Tompkins Hall Suite 410 on Tuesdays; Tompkins Hall Suite 410 on Thursdays
+- **Location:** Tompkins Hall Suite 406 on Tuesdays; Tompkins Hall Suite 410 on Thursdays
 
 ### Learning Assistants
 ##### Olivia Legault
@@ -63,7 +63,7 @@ This year as part of his senior design project, Jack will be working on Traffick
 This past summer he interned as a software developer at Leidos where he worked on air traffic control software. 
 After graduation, he plans to return to Leidos as a full time developer. Outside of class, he is an avid member of GW Sailing.
 - **E-mail:** jumina@gwmail.gwu.edu
-- **Office hours:** Wednesdays 9:45 AM -10:4 AM
+- **Office hours:** Wednesdays 9:45 AM -10:45 AM
 - **Location:** SEH 4th Floor
 
 ##### Ethan Frink
