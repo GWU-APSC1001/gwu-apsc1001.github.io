@@ -5,11 +5,13 @@ title: Website Home
 narrow: true
 ---
 
-##### Welcome to CS 1010 / APSC 1001, the best engineering orientation class this side of the (virtual) Potomac.
+##### Welcome to CS 1010 / APSC 1001 in Fall 2021, the best engineering orientation class this side of the (in-person) Potomac.
 
 Got too many ~things~ to keep track of for online classes? Not to worry, this page is your one-stop shop for CS 1010 and APSC 1001.
+- Below is a link to the (virtual) course from Fall 2020 to get you excited!
+    - Link: [APSC1001 in Fall 2020](https://https://searri.github.io/apsc1001-fall2020/finalprojects.html) 
 
-### Important Links
+### Important Links for Fall 2021
 - **[Slack group]**: Join the course's **[Slack Workspace](https://apsc1001seasgwu.slack.com/)**. Here's where you'll hear class announcements, get questions answered, or just get to know your classmates.
     - Link: [https://apsc1001seasgwu.slack.com/](https://apsc1001seasgwu.slack.com/)
     - *NOTE*: You will receive an email invitation. Please contact the [instruction team](contact.html) if you need assistance!
