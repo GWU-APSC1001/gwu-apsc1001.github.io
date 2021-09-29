@@ -40,6 +40,11 @@ She also loves to travel, and having studied in Seoul, South Korea her fifth sem
 - **Location:** TBA
 
 ##### Zachary Stecher
+- Zachary Stecher is a graduate student studying civil engineering with a focus on structural engineering. 
+He received his bachelor’s degree from GW in the same field in 2021. 
+He has spent the last 2 and a half years performing earthquake engineering research with Professor Pedro Silva in the high bay laboratory of SEH. 
+Over the summer, Zachary worked for EXP, a design firm in DC, and started his fellowship in the Dean’s Office where he currently coordinates academic support and study abroad initiatives. He spent his 4th undergraduate semester studying abroad in Sydney, Australia. 
+After finishing his master’s degree, Zachary would like to go into structural design for mid-rise and high-rise buildings.
 - **E-mail:** zstecher@gwmail.gwu.edu
 - **Office hours:** Tuesdays 1 PM -2 PM; Thursdays 1 PM – 2PM
 - **Location:** Tompkins Hall Suite 406 on Tuesdays; Tompkins Hall Suite 410 on Thursdays
