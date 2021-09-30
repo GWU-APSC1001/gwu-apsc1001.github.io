@@ -24,13 +24,13 @@ title: Course Schedule
     <tr>
       <td style="text-align: left">9/24/2021</td>
       <td style="text-align: left">Introduction to APSC1001 by <a href="https://www.seas.gwu.edu/bhagirath-narahari" target="_blank">Associate Dean Bhagirath Narahari </a> and Prof. Kartik Bulusu <br>- <a href="contact.html">Introduction to the Instruction Team</a><br>-<a href="{{ site.baseurl }}{% link files/BulusuIntroAPSC1001_09242021.pdf %}" target="_blank"> What to expect in CS1010 & APSC1001 </a><br></td>
-      <td style="text-align: left">-<strong>DeepNote:</strong> Python as a Calculator<br>-<strong>&mu;Lab:</strong> <a href="{{ site.baseurl }}{% link files/Deck3_IntroRPi3BplusLED_Module2_09242021.pdf %}" target="_blank">Blinking LEDs with Raspberry Pi 3B+</a></td>
+      <td style="text-align: left">-<strong>DeepNote:</strong> <a href="labs/week1-python.html">Python as a Calculator </a><br>-<strong>&mu;Lab:</strong> <a href="{{ site.baseurl }}{% link files/Deck3_IntroRPi3BplusLED_Module2_09242021.pdf %}" target="_blank">Blinking LEDs with Raspberry Pi 3B+</a></td>
       <td style="text-align: left"> End of class: <a href="https://docs.google.com/forms/d/e/1FAIpQLSfN_wKwb7h0_DHXS8olXMRO915r9P1mVut2aueyIXuNXvYFSg/viewform?usp=sf_link" target="_blank">Working Styles Workout</a></td>
     </tr>
     <tr>
       <td style="text-align: left">10/01/2021</td>
-      <td style="text-align: left">Electrical and Computer Engineering by <a href="https://www.seas.gwu.edu/gina-adam" target="_blank">Prof. Gina Adam</a> (confirmed)</td>
-      <td style="text-align: left">-<strong>DeepNote:</strong> Working with Matplotlib<br>-<strong>&mu;Lab:</strong> Ultrasonic (cacophony) with Raspberry Pi 3B+<br>-Intro to Group and Guided-Projects<br></td>
+      <td style="text-align: left">Electrical and Computer Engineering by <a href="https://www.seas.gwu.edu/gina-adam" target="_blank">Prof. Gina Adam</a> (confirmed)<br>- <a href="{{ site.baseurl }}{% link files/Deck1_Matrices_Module2_10012021.pdf %}" target="_blank"> Very Short Introduction to Matrices using Python </a><br> - <a href="{{ site.baseurl }}{% link files/Deck2_Plotting_Module2_10012021.pdf %}" target="_blank"> Very Short Introduction to Plotting using Python </a></td>
+      <td style="text-align: left">-<strong>DeepNote:</strong> <a href="labs/week2-python.html">The Very Basics of Matplotlib & Pandas </a><br>-<strong>&mu;Lab:</strong> <a href="{{ site.baseurl }}{% link files/Deck3_RPi3BplusUltrasound_Module2_10012021.pdf %}" target="_blank">Ultrasonic (cacophony) with Raspberry Pi 3B+ </a><br>-Intro to Group and Guided-Projects</td>
       <td>- <a href="/files/HW1.ipynb" target="_blank">Python HW 1</a><br>-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdcr88Ta_iaXymUxEhX4O4Ul39PCDgPQGNqttiUw5QvvX2f4w/viewform?usp=sf_link" target="_blank"> COGS Worksheet for LED &mu;Lab</a></td>
     </tr>
    <tr>
