@@ -51,8 +51,9 @@ After finishing his master’s degree, Zachary would like to go into structural 
 
 ### Learning Assistants
 ##### Olivia Legault
+- Olivia is a junior undergraduate student majoring in Computer Science. Originally from Rhode Island, she is currently involved with several activities on campus, including oSTEM, which is an LGBTQ+ STEM organization, as well as research within SMPA on tracking extremism and hate speech online. She is also involved in the student theater program 14th, as a member of the tech crew. Her primary research and academic focus is on the spread of extremism and misinformation through online platforms like Telegram, as well as interests in the areas of law and security and privacy within CS. Besides these interests, Olivia spends her free time learning to skateboard and play guitar.
 - **E-mail:** olegault@gwmail.gwu.edu
-- **Office hours:** Wednesdays 6 PM -7 PM 
+- **Office hours:** Wednesdays 9 PM - 10 PM 
 - **Location:** SEH 4th Floor
 
 ##### Jonathan Terry
