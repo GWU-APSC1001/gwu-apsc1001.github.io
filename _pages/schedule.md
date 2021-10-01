@@ -29,7 +29,7 @@ title: Course Schedule
     </tr>
     <tr>
       <td style="text-align: left">10/01/2021</td>
-      <td style="text-align: left">Electrical and Computer Engineering by <a href="https://www.seas.gwu.edu/gina-adam" target="_blank">Prof. Gina Adam</a><br>- <a href="{{ site.baseurl }}{% link files/APSC-1001-ECE-2021.pdf %}" target="_blank"> Introduction to Electrical and Computer Engineering </a><br>- <a href="{{ site.baseurl }}{% link files/Deck1_Matrices_Module2_10012021.pdf %}" target="_blank"> Very Short Introduction to Matrices using Python </a><br> - <a href="{{ site.baseurl }}{% link files/Deck2_Plotting_Module2_10012021.pdf %}" target="_blank"> Very Short Introduction to Plotting using Python </a></td>
+      <td style="text-align: left">- <a href="{{ site.baseurl }}{% link files/APSC-1001-ECE-2021.pdf %}" target="_blank"> Electrical and Computer Engineering </a> by <a href="https://www.seas.gwu.edu/gina-adam" target="_blank">Prof. Gina Adam</a><br>- <a href="{{ site.baseurl }}{% link files/Deck1_Matrices_Module2_10012021.pdf %}" target="_blank"> Very Short Introduction to Matrices using Python </a><br> - <a href="{{ site.baseurl }}{% link files/Deck2_Plotting_Module2_10012021.pdf %}" target="_blank"> Very Short Introduction to Plotting using Python </a></td>
       <td style="text-align: left">-<strong>DeepNote:</strong> <a href="labs/week2-python.html">The Very Basics of Matplotlib & Pandas </a><br>-<strong>&mu;Lab:</strong> <a href="{{ site.baseurl }}{% link files/Deck3_RPi3BplusUltrasound_Module2_10012021.pdf %}" target="_blank">Ultrasonic (cacophony) with Raspberry Pi 3B+ </a><br>-Intro to Group and Guided-Projects</td>
       <td>- <a href="/files/HW1.ipynb" target="_blank">Python HW 1</a><br>-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdcr88Ta_iaXymUxEhX4O4Ul39PCDgPQGNqttiUw5QvvX2f4w/viewform?usp=sf_link" target="_blank"> COGS Worksheet for LED &mu;Lab</a></td>
     </tr>
@@ -37,13 +37,13 @@ title: Course Schedule
       <td style="text-align: left">10/08/2021</td>
       <td style="text-align: left">Civil Engineering with <a href="https://transportation.seas.gwu.edu/" target="_blank">Prof. Samer Hamdar </a> (tentative) <br>- <a href="/files/cee_activities.pdf">Check out the CEE traffic simulation games</a></td>
       <td style="text-align: left">-<strong>DeepNote:</strong> Python-Loops<br>-<strong>&mu;Lab:</strong> Raspberry Pi Lab using senseHats<br>-<a href="files/student_orgs.pdf">Get involved: SEAS Student Orgs</a></td>
-      <td>Python HW2<br>-<a href="https://docs.google.com/forms/d/e/1FAIpQLSeVh2moyzVuaAS5w5hLRXEmbzjHWiXBj9sGD-XDuSyXQXmxTQ/viewform?usp=sf_link" target="_blank"> COGS Worksheet for Ultrasound sensor &mu;Lab</a></td>
+      <td>- Python HW2<br>-<a href="https://docs.google.com/forms/d/e/1FAIpQLSeVh2moyzVuaAS5w5hLRXEmbzjHWiXBj9sGD-XDuSyXQXmxTQ/viewform?usp=sf_link" target="_blank"> COGS Worksheet for Ultrasound sensor &mu;Lab</a></td>
     </tr>
     <tr>
       <td style="text-align: left">10/15/2021</td>
       <td style="text-align: left">Biomedical Engineering by <a href="https://www.seas.gwu.edu/jason-m-zara" target="_blank">Prof. Jason M. Zara </a> (confirmed) </td>
       <td style="text-align: left">-<strong>DeepNote:</strong> Working with Pandas and analyzing COVID-19 data in Python<br>-<strong>&mu;Lab:</strong> Raspberry Pi Lab on Heart rate measurements</td>
-      <td>Python HW3</td>
+      <td>- Python HW3</td>
     </tr>
     <tr>
       <td style="text-align: left">10/22/2021</td>
