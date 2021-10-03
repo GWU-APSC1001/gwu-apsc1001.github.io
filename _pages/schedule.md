@@ -37,7 +37,7 @@ title: Course Schedule
       <td style="text-align: left">10/08/2021</td>
       <td style="text-align: left">Civil Engineering with <a href="https://transportation.seas.gwu.edu/" target="_blank">Prof. Samer Hamdar </a> (tentative) <br>- <a href="/files/cee_activities.pdf">Check out the CEE traffic simulation games</a></td>
       <td style="text-align: left">-<strong>DeepNote:</strong> Python-Loops<br>-<strong>&mu;Lab:</strong> Raspberry Pi Lab using senseHats<br>-<a href="files/student_orgs.pdf">Get involved: SEAS Student Orgs</a></td>
-      <td>- Python HW2<br>-<a href="https://docs.google.com/forms/d/e/1FAIpQLSeVh2moyzVuaAS5w5hLRXEmbzjHWiXBj9sGD-XDuSyXQXmxTQ/viewform?usp=sf_link" target="_blank"> COGS Worksheet for Ultrasound sensor &mu;Lab</a></td>
+      <td>- <a href="/files/HW2.ipynb" target="_blank">Python HW 2</a> & <a href="/files/apsc1001_cs1010_400mgml_flow.csv" target="_blank">its CSV-file</a><br>-<a href="https://docs.google.com/forms/d/e/1FAIpQLSeVh2moyzVuaAS5w5hLRXEmbzjHWiXBj9sGD-XDuSyXQXmxTQ/viewform?usp=sf_link" target="_blank"> COGS Worksheet for Ultrasound sensor &mu;Lab</a></td>
     </tr>
     <tr>
       <td style="text-align: left">10/15/2021</td>
