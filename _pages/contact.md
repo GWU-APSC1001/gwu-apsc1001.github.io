@@ -27,7 +27,7 @@ Outside of classes, Katya competed on the university's Division I women’s gymn
 She enjoys dancing and exploring fun places in the city with her friends. 
 - **E-mail:** katyakarpova@gwmail.gwu.edu
 - **Office hours:** Tuesdays 12 PM -1 PM; Thursdays 1 PM – 2PM
-- **Location:** Online on Tuesdays (Contact Katya via email or slack for link); Tompkins Hall Suite 406 on Thursdays
+- **Location:** Online on Tuesdays (Contact Katya via email or slack and get onto her Zoom link <a href="https://us05web.zoom.us/j/5425845044?pwd=VGhXa1l2TEFWeDNnSGxtUHFyWEtZUT09#success" target="_blank">here</a>); Tompkins Hall Suite 406 on Thursdays
 
 ##### Sara Tenaglio
 - Sara Tenaglio is a graduate student studying Biomedical Engineering, who received her undergraduate degree from GW in the same field of study last year. 
@@ -37,7 +37,7 @@ Aside from TAing and fulfilling her studies, she is currently working part-time 
 She also loves to travel, and having studied in Seoul, South Korea her fifth semester, she is a big advocate of study abroad and all of the wonderful opportunities that come with it. 
 - **E-mail:** sara_tenaglio@gwmail.gwu.edu 
 - **Office hours:** Wednesdays 9 AM -10 AM; Thursdays 7 PM – 8 PM
-- **Location:** TBA
+- **Location:** SEH 4th Floor on Wednesdays; Online on Thursdays (Contact Sara via email or slack and get onto her Zoom link <a href="https://gwu-edu.zoom.us/j/97481993404?pwd=Wm1UcTJEdEppSktwbndxSzBjbG1Idz09" target="_blank">here</a>)
 
 ##### Zachary Stecher
 - Zachary Stecher is a graduate student studying civil engineering with a focus on structural engineering. 
@@ -54,14 +54,14 @@ After finishing his master’s degree, Zachary would like to go into structural 
 - Olivia is a junior undergraduate student majoring in Computer Science. Originally from Rhode Island, she is currently involved with several activities on campus, including oSTEM, which is an LGBTQ+ STEM organization, as well as research within SMPA on tracking extremism and hate speech online. She is also involved in the student theater program 14th, as a member of the tech crew. Her primary research and academic focus is on the spread of extremism and misinformation through online platforms like Telegram, as well as interests in the areas of law and security and privacy within CS. Besides these interests, Olivia spends her free time learning to skateboard and play guitar.
 - **E-mail:** olegault@gwmail.gwu.edu
 - **Office hours:** Wednesdays 9 PM - 10 PM 
-- **Location:** SEH 4th Floor
+- **Location:** SEH 4th Floor (Couches and chairs by the elevators)
 
 ##### Jonathan Terry
 - Jon Terry is in his senior year and majoring in computer science with a minor in mathematics, originally from Connecticut. 
 This past summer he worked in the Computer Science department’s systems lab for a research fellowship, working on power management in embedded systems.
 - **E-mail:** jterry82@gwmail.gwu.edu 
 - **Office hours:** Mondays 3 PM - 4 PM
-- **Location:** SEH 4th Floor
+- **Location:** SEH 4th Floor (Couches and chairs by the elevators)
 
 ##### Jack Umina
 - Jack is a senior studying computer science from Brick, New Jersey. In the fall of his freshman year he completed CSCI 1010. 
@@ -70,7 +70,7 @@ This past summer he interned as a software developer at Leidos where he worked o
 After graduation, he plans to return to Leidos as a full time developer. Outside of class, he is an avid member of GW Sailing.
 - **E-mail:** jumina@gwmail.gwu.edu
 - **Office hours:** Wednesdays 9:45 AM -10:45 AM
-- **Location:** SEH 4th Floor
+- **Location:** SEH 4th Floor (Couches and chairs by the elevators)
 
 ##### Ethan Frink
 - Ethan is a senior mechanical engineering student from Sheboygan, Wisconsin. He took APSC1001 in his first semester at GW! 
@@ -81,7 +81,7 @@ He is now the Chief Engineer of the organization. Any interested new members can
 On a non-technical side, I studied abroad in Sydney during my 4th semester at GW and am part of the Symphonic Band and the C-brass pep band!
 - **E-mail:** efrink@gwmail.gwu.edu 
 - **Office hours:** Mondays 5:30 PM - 6:30 PM
-- **Location:** Zoom (Contact Ethan via email or slack for Zoom-link)
+- **Location:** Contact Ethan via email or slack and get onto his Zoom link <a href="https://gwu-edu.zoom.us/j/4431812611?pwd=d0xMMlZzZ0FsR0xpUm43UTZSNWRGZz09" target="_blank">here</a>)
 
 ##### Alexis Renderos
 - Alexis is a senior studying mechanical engineering with a concentration in aerospace engineering from Fairfax, Virginia. 
@@ -92,4 +92,4 @@ He has participated in the Summer Undergraduate Program in Engineering Research 
 This past summer, he worked at Amazon Web Services as an Engineering Operations Technician.
 - **E-mail:** alexisrenderos@gwmail.gwu.edu
 - **Office hours:** Wednesdays 2 PM -3 PM 
-- **Location:** SEH 3rd Floor Suite 3980 (Biofluid Dynamics Lab)
+- **Location:** SEH 3rd Floor (Couches and chairs by the elevators)
