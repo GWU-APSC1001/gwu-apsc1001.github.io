@@ -35,15 +35,15 @@ title: Course Schedule
     </tr>
    <tr>
       <td style="text-align: left">10/08/2021</td>
-      <td style="text-align: left">Civil Engineering with <a href="https://transportation.seas.gwu.edu/" target="_blank">Prof. Samer Hamdar </a> (tentative) <br>- <a href="/files/cee_activities.pdf">Check out the CEE traffic simulation games</a></td>
-      <td style="text-align: left">-<strong>DeepNote:</strong> Python-Loops<br>-<strong>&mu;Lab:</strong> Raspberry Pi Lab using senseHats<br>-<a href="files/student_orgs.pdf">Get involved: SEAS Student Orgs</a></td>
-      <td>- <a href="/files/HW2.ipynb" target="_blank">Python HW 2</a> & <a href="/files/apsc1001_cs1010_400mgml_flow.csv" target="_blank">its CSV-file</a><br>-<a href="https://docs.google.com/forms/d/e/1FAIpQLSeVh2moyzVuaAS5w5hLRXEmbzjHWiXBj9sGD-XDuSyXQXmxTQ/viewform?usp=sf_link" target="_blank"> COGS Worksheet for Ultrasound sensor &mu;Lab</a></td>
+      <td style="text-align: left">Civil Engineering with <a href="https://www.cee.seas.gwu.edu/majid-t-manzari" target="_blank">Prof. Majid Manzari </a> and <a href="https://transportation.seas.gwu.edu/" target="_blank">Prof. Samer Hamdar </a> <br>- <a href="/files/cee_activities.pdf">Check out the CEE traffic simulation games</a></td>
+      <td style="text-align: left">-<strong>DeepNote:</strong>  <a href="labs/week3-python.html">Next steps with Pandas in Python </a><br>-<strong>&mu;Lab:</strong> <a href="{{ site.baseurl }}{% link files/Deck3_RPi3BplusSenseHAT_Module2_10082021.pdf %}" target="_blank">Raspberry Pi 3B+ with senseHat applications</a><br></td>
+      <td>- <a href="/files/HW2.ipynb" target="_blank">Python HW 2</a><br> & <a href="/files/apsc1001_cs1010_400mgml_flow.csv" target="_blank">its CSV-file</a><br>-<a href="https://docs.google.com/forms/d/e/1FAIpQLSeVh2moyzVuaAS5w5hLRXEmbzjHWiXBj9sGD-XDuSyXQXmxTQ/viewform?usp=sf_link" target="_blank"> COGS Worksheet for Ultrasound sensor application &mu;Lab</a></td>
     </tr>
     <tr>
       <td style="text-align: left">10/15/2021</td>
       <td style="text-align: left">Biomedical Engineering by <a href="https://www.seas.gwu.edu/jason-m-zara" target="_blank">Prof. Jason M. Zara </a> (confirmed) </td>
-      <td style="text-align: left">-<strong>DeepNote:</strong> Working with Pandas and analyzing COVID-19 data in Python<br>-<strong>&mu;Lab:</strong> Raspberry Pi Lab on Heart rate measurements</td>
-      <td>- Python HW3</td>
+      <td style="text-align: left">-<strong>DeepNote:</strong> Next steps with matplotlib in Python <br>-<strong>&mu;Lab:</strong> Raspberry Pi Lab on Heart rate measurements</td>
+      <td>- <a href="/files/HW3.ipynb" target="_blank">Python HW3</a><br> & <a href="/files/HW3.csv" target="_blank">its CSV-file</a><br>-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdj_xinj4-WeamB5a9x7ewWluyx40591PO7S3tU2stTmZnZhw/viewform?usp=sf_link" target="_blank"> COGS Worksheet for senseHat application &mu;Lab</a></td>
     </tr>
     <tr>
       <td style="text-align: left">10/22/2021</td>
@@ -64,7 +64,7 @@ title: Course Schedule
     <tr>
       <td style="text-align: left">11/12/2021</td>
       <td style="text-align: left">Systems Engineering by <a href="https://www2.seas.gwu.edu/~zszajnfa/" target="_blank">Prof. Zoe Szajnfarber</a> and <a href="https://www.jhelvy.com/" target="_blank">Prof. John Paul Helveston</a> (confirmed) </td>
-      <td style="text-align: left">-<a href="labs/week4-emse-lab.html">EMSE Simulation Lab</a><br>-<a href="labs/week4-python.html">Choropleths in Python</a></td>
+      <td style="text-align: left">-<a href="labs/week4-emse-lab.html">EMSE Simulation Lab</a><br>-<a href="labs/week4-python.html">Choropleths in Python</a><br>-<a href="files/student_orgs.pdf">Get involved: SEAS Student Orgs</a></td>
       <td>Python HW5</td>
     </tr>
     <tr>

@@ -45,8 +45,8 @@ None
 ### Learning Outcomes
 As a result of completing this course, students will be able to:
 1. Understand the different majors offered in SEAS.
-2. Write simple mobile applications.
-3. Write Python programs.
+2. Write Python programs.
+3. Write simple Raspberry Pi applications using Python.
 4. Work on engineering-innovation projects.
 
 #### ABET Learning Outcomes:
