@@ -5,12 +5,12 @@ layout: defaults/page
 narrow: true
 ---
 
-#### Table of Contents
-- [Final Project](#final-project)
-- [Assignment 4](#assignment-4)
-- [Assignment 3](#assignment-3)
-- [Assignment 2](#assignment-2)
-- [Assignment 1](#assignment-1)
+<!--- #### Table of Contents -->
+<!--- - [Final Project](#final-project) -->
+<!--- - [Assignment 4](#assignment-4) -->
+<!--- - [Assignment 3](#assignment-3) -->
+<!--- - [Assignment 2](#assignment-2) -->
+<!--- - [Assignment 1](#assignment-1) -->
 
 <a name="headers"/>
 
@@ -20,12 +20,13 @@ narrow: true
 
 <hr>
 
-APSC 1001 has a longstanding tradition of recognizing student participation, engagement, and creativity with "brownie points". Moving the class online means tweaking the tradition a little, so here we're featuring student-made [Thunkable assignment](list/assignments.html) submissions that we felt were exceptionally creative and beyond the scope of what we were expecting.
+APSC 1001 has a longstanding tradition of recognizing student participation, engagement, and creativity with "brownie points". Moving the class online means tweaking the tradition a little, so here we're featuring student-made submissions that we felt were exceptionally creative and beyond the scope of what we were expecting.
 
 Of course, it's always difficult to pick the top 3-5 out of so many excellent creations -- [we](/contact.html) love seeing your hard work, even if it isn't showcased here!
 
-Congratulations on your outstanding work this fall, everyone!
+<!--- Congratulations on your outstanding work this fall, everyone! -->
 
+<!--- 
 ### Final Project
 
 After the final project presentations, both the [instruction team](/contact.html) and the students voted on their favorite app.
@@ -56,3 +57,5 @@ After the final project presentations, both the [instruction team](/contact.html
 - <a href="https://x.thunkable.com/projectPage/5f8a000723e62b001366e710" target="_blank">Brendan Humphrey added camera functionality 📸</a>
 - <a href="https://x.thunkable.com/projectPage/5f8a02f10db58e00118223fd" target="_blank">Kaj Boeri sketched out an idea for a workout app 💪</a>
 - <a href="https://x.thunkable.com/projectPage/5f89fac95573560011858019" target="_blank">Lily Samoyan translated the app's text-to-speech greeting into Spanish 🌍</a>
+
+-->
