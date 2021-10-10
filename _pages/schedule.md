@@ -40,32 +40,41 @@ title: Course Schedule
       <td>- <a href="/files/HW2.ipynb" target="_blank">Python HW 2</a><br> & <a href="/files/apsc1001_cs1010_400mgml_flow.csv" target="_blank">its CSV-file</a><br>-<a href="https://docs.google.com/forms/d/e/1FAIpQLSeVh2moyzVuaAS5w5hLRXEmbzjHWiXBj9sGD-XDuSyXQXmxTQ/viewform?usp=sf_link" target="_blank"> COGS Worksheet for Ultrasound sensor application &mu;Lab</a></td>
     </tr>
     <tr>
+      <td style="text-align: left">10/09/2021</td>
+      <td style="text-align: center" colspan="3"><strong><a href="{{ site.baseurl }}{% link files/COVID_data_analysis_project.pdf %}" target="_blank"> Guided-Python Project on COVID-19 Data Analysis is released </a></strong><br>NOTE: Students should note that this group project is due on 10/20/2021 by 11:59 PM</td> 
+    </tr>
+    <tr>
+    <tr>
       <td style="text-align: left">10/15/2021</td>
       <td style="text-align: left">Biomedical Engineering by <a href="https://www.seas.gwu.edu/jason-m-zara" target="_blank">Prof. Jason M. Zara </a> (confirmed) </td>
       <td style="text-align: left">-<strong>DeepNote:</strong> Next steps with matplotlib in Python <br>-<strong>&mu;Lab:</strong> Raspberry Pi Lab on Heart rate measurements</td>
       <td>- <a href="/files/HW3.ipynb" target="_blank">Python HW3</a><br> & <a href="/files/HW3.csv" target="_blank">its CSV-file</a><br>-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdj_xinj4-WeamB5a9x7ewWluyx40591PO7S3tU2stTmZnZhw/viewform?usp=sf_link" target="_blank"> COGS Worksheet for senseHat application &mu;Lab</a></td>
     </tr>
     <tr>
+      <td style="text-align: left">10/20/2021</td>
+      <td style="text-align: center" colspan="3"><strong> Guided-Python Project on COVID-19 Data Analysis is due</strong><br>NOTE: Students should note that this group project accounts for 30% of the final grade</td> 
+    </tr>
+    <tr>
       <td style="text-align: left">10/22/2021</td>
-      <td style="text-align: center" colspan="3">Fall Break - No class this week.<br>NOTE: Students should start working on the Guided Python project on COVID-19 data due</td> 
+      <td style="text-align: center" colspan="3"><strong>Fall Break - No class this week</strong></td> 
     </tr>
     <tr>
       <td style="text-align: left">10/29/2021</td>
       <td style="text-align: left">Computer Science by <a href="https://www.seas.gwu.edu/bhagirath-narahari" target="_blank">Associate Dean Bhagirath Narahari </a> (tentative) </td>
-      <td style="text-align: left"><strong>DeepNote:</strong> Image encryption and decryption in Python<br>-<strong>&mu;Lab:</strong> Raspberry Pi Lab for Image encryption<br>-<a href="/files/path_statement.pdf" target="_blank">Discussion on the Final Project and the PATH Worksheet</a></td>
-      <td>Guided-project in Python</td>
+      <td style="text-align: left"><strong>-DeepNote:</strong> Image encryption and decryption in Python<br>-<strong>&mu;Lab:</strong> Raspberry Pi Lab for Image encryption<br>-<a href="/files/path_statement.pdf" target="_blank">Discussion on the Final Project and the PATH Worksheet</a></td>
+      <td>- Python HW4<br>- BME-COGS</td>
     </tr>
     <tr>
       <td style="text-align: left">11/05/2021</td>
       <td style="text-align: left">Mechanical and Aerospace Engineering by <a href="https://www.seas.gwu.edu/michael-w-plesniak" target="_blank">Prof. Michael Plesniak</a> and <a href="https://leftwichlab.seas.gwu.edu/" target="_blank">Prof. Megan Leftwich</a> (confirmed) </td>
-      <td style="text-align: left"><strong>DeepNote:</strong> Python for-loops<br>-<strong>&mu;Lab:</strong> Data acquisition with Raspberry Pi 3B+<br>-Python Group Project progress discussion</td>
-      <td>Python HW4<br>System Dynamics-COGS</td>
+      <td style="text-align: left"><strong>-DeepNote:</strong> Python for-loops<br>-<strong>&mu;Lab:</strong> Data acquisition with Raspberry Pi 3B+<br>-Python Group Project progress discussion</td>
+      <td>- Python HW5<br>- CS-COGS</td>
     </tr>
     <tr>
       <td style="text-align: left">11/12/2021</td>
       <td style="text-align: left">Systems Engineering by <a href="https://www2.seas.gwu.edu/~zszajnfa/" target="_blank">Prof. Zoe Szajnfarber</a> and <a href="https://www.jhelvy.com/" target="_blank">Prof. John Paul Helveston</a> (confirmed) </td>
       <td style="text-align: left">-<a href="labs/week4-emse-lab.html">EMSE Simulation Lab</a><br>-<a href="labs/week4-python.html">Choropleths in Python</a><br>-<a href="files/student_orgs.pdf">Get involved: SEAS Student Orgs</a></td>
-      <td>Python HW5</td>
+      <td>- Python HW6<br>- MAE-COGS</td>
     </tr>
     <tr>
       <td style="text-align: left">11/15/2021</td>
