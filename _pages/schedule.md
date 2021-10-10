@@ -44,7 +44,6 @@ title: Course Schedule
       <td style="text-align: center" colspan="3"><strong><a href="{{ site.baseurl }}{% link files/COVID_data_analysis_project.pdf %}" target="_blank"> Guided-Python Project on COVID-19 Data Analysis is released!</a></strong><br>NOTE: Students should note that this group project is due on 10/20/2021 by 11:59 PM</td> 
     </tr>
     <tr>
-    <tr>
       <td style="text-align: left">10/15/2021</td>
       <td style="text-align: left">Biomedical Engineering by <a href="https://www.seas.gwu.edu/jason-m-zara" target="_blank">Prof. Jason M. Zara </a> (confirmed) </td>
       <td style="text-align: left">-<strong>DeepNote:</strong> Next steps with matplotlib in Python <br>-<strong>&mu;Lab:</strong> Raspberry Pi Lab on Heart rate measurements</td>
