@@ -41,7 +41,7 @@ title: Course Schedule
     </tr>
     <tr>
       <td style="text-align: left">10/09/2021</td>
-      <td style="text-align: center" colspan="3"><strong><a href="{{ site.baseurl }}{% link files/COVID_data_analysis_project.pdf %}" target="_blank"> Guided-Python Project on COVID-19 Data Analysis is released </a></strong><br>NOTE: Students should note that this group project is due on 10/20/2021 by 11:59 PM</td> 
+      <td style="text-align: center" colspan="3"><strong><a href="{{ site.baseurl }}{% link files/COVID_data_analysis_project.pdf %}" target="_blank"> Guided-Python Project on COVID-19 Data Analysis is released!</a></strong><br>NOTE: Students should note that this group project is due on 10/20/2021 by 11:59 PM</td> 
     </tr>
     <tr>
     <tr>
