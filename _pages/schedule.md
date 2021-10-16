@@ -45,8 +45,8 @@ title: Course Schedule
     </tr>
     <tr>
       <td style="text-align: left">10/15/2021</td>
-      <td style="text-align: left">Biomedical Engineering by <a href="https://www.seas.gwu.edu/jason-m-zara" target="_blank">Prof. Jason M. Zara </a> (confirmed) </td>
-      <td style="text-align: left">-<strong>DeepNote:</strong> Next steps with matplotlib in Python <br>-<strong>&mu;Lab:</strong> Raspberry Pi Lab on Heart rate measurements</td>
+      <td style="text-align: left"> <a href="{{ site.baseurl }}{% link files/BME_Zara_APSC1001Presentation.pdf %}" target="_blank"> Biomedical Engineering</a> by <a href="https://www.seas.gwu.edu/jason-m-zara" target="_blank">Prof. Jason M. Zara </a> (confirmed) </td>
+      <td style="text-align: left">-<strong>DeepNote:</strong>  <a href="labs/week4-python.html">Next steps with Matplotlib in Python </a><br>-<strong>&mu;Lab:</strong> <a href="{{ site.baseurl }}{% link files/Deck3_RPi3BplusPulseSensor_Module2_10152021.pdf %}" target="_blank"> Raspberry Pi Lab on Heart rate measurements</a><br></td>
       <td>- <a href="/files/HW3.ipynb" target="_blank">Python HW3</a><br> & <a href="/files/HW3.csv" target="_blank">its CSV-file</a><br>-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdj_xinj4-WeamB5a9x7ewWluyx40591PO7S3tU2stTmZnZhw/viewform?usp=sf_link" target="_blank"> COGS Worksheet for senseHat application &mu;Lab</a></td>
     </tr>
     <tr>
