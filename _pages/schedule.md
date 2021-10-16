@@ -61,7 +61,7 @@ title: Course Schedule
       <td style="text-align: left">10/29/2021</td>
       <td style="text-align: left">Computer Science by <a href="https://www.seas.gwu.edu/bhagirath-narahari" target="_blank">Associate Dean Bhagirath Narahari </a> (tentative) </td>
       <td style="text-align: left"><strong>-DeepNote:</strong> Image encryption and decryption in Python<br>-<strong>&mu;Lab:</strong> Raspberry Pi Lab for Image encryption<br>-<a href="/files/path_statement.pdf" target="_blank">Discussion on the Final Project and the PATH Worksheet</a></td>
-      <td>- Python HW4<br>- BME-COGS</td>
+      <td>- <a href="/files/HW3.ipynb" target="_blank">Python HW4</a><br> & <a href="/files/HW4.csv" target="_blank">its CSV-file</a><br>- BME-COGS</td>
     </tr>
     <tr>
       <td style="text-align: left">11/05/2021</td>
