@@ -31,13 +31,13 @@ title: Course Schedule
       <td style="text-align: left">10/01/2021</td>
       <td style="text-align: left"><a href="{{ site.baseurl }}{% link files/APSC-1001-ECE-2021.pdf %}" target="_blank"> Electrical and Computer Engineering </a> by <a href="https://www.seas.gwu.edu/gina-adam" target="_blank">Prof. Gina Adam</a><br>- <a href="{{ site.baseurl }}{% link files/Deck1_Matrices_Module2_10012021.pdf %}" target="_blank"> Very Short Introduction to Matrices using Python </a><br> - <a href="{{ site.baseurl }}{% link files/Deck2_Plotting_Module2_10012021.pdf %}" target="_blank"> Very Short Introduction to Plotting using Python </a></td>
       <td style="text-align: left">-<strong>DeepNote:</strong> <a href="labs/week2-python.html">The Very Basics of Matplotlib & Pandas </a><br>-<strong>&mu;Lab:</strong> <a href="{{ site.baseurl }}{% link files/Deck3_RPi3BplusUltrasound_Module2_10012021.pdf %}" target="_blank">Ultrasonic (cacophony) with Raspberry Pi 3B+ </a><br>-Intro to Group and Guided-Projects</td>
-      <td>- <a href="/files/HW1.ipynb" target="_blank">Python HW 1</a><br>-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdcr88Ta_iaXymUxEhX4O4Ul39PCDgPQGNqttiUw5QvvX2f4w/viewform?usp=sf_link" target="_blank"> COGS Worksheet for LED &mu;Lab</a></td>
+      <td>- <a href="/files/HW1.ipynb" target="_blank">Python HW 1</a><br>-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdcr88Ta_iaXymUxEhX4O4Ul39PCDgPQGNqttiUw5QvvX2f4w/viewform?usp=sf_link" target="_blank"> COGS Worksheet for the LED &mu;Lab</a></td>
     </tr>
    <tr>
       <td style="text-align: left">10/08/2021</td>
       <td style="text-align: left">Civil Engineering with <a href="https://www.cee.seas.gwu.edu/majid-t-manzari" target="_blank">Prof. Majid Manzari </a> and <a href="https://transportation.seas.gwu.edu/" target="_blank">Prof. Samer Hamdar </a> <br>- <a href="/files/cee_activities.pdf">Check out the CEE traffic simulation games</a></td>
       <td style="text-align: left">-<strong>DeepNote:</strong>  <a href="labs/week3-python.html">Next steps with Pandas in Python </a><br>-<strong>&mu;Lab:</strong> <a href="{{ site.baseurl }}{% link files/Deck3_RPi3BplusSenseHAT_Module2_10082021.pdf %}" target="_blank">Raspberry Pi 3B+ with senseHat applications</a><br></td>
-      <td>- <a href="/files/HW2.ipynb" target="_blank">Python HW 2</a><br> & <a href="/files/apsc1001_cs1010_400mgml_flow.csv" target="_blank">its CSV-file</a><br>-<a href="https://docs.google.com/forms/d/e/1FAIpQLSeVh2moyzVuaAS5w5hLRXEmbzjHWiXBj9sGD-XDuSyXQXmxTQ/viewform?usp=sf_link" target="_blank"> COGS Worksheet for Ultrasound sensor application &mu;Lab</a></td>
+      <td>- <a href="/files/HW2.ipynb" target="_blank">Python HW 2</a><br> & <a href="/files/apsc1001_cs1010_400mgml_flow.csv" target="_blank">its CSV-file</a><br>-<a href="https://docs.google.com/forms/d/e/1FAIpQLSeVh2moyzVuaAS5w5hLRXEmbzjHWiXBj9sGD-XDuSyXQXmxTQ/viewform?usp=sf_link" target="_blank" target="_blank"> COGS Worksheet for the Ultrasound sensor &mu;Lab</a></td>
     </tr>
     <tr>
       <td style="text-align: left">10/09/2021</td>
@@ -45,9 +45,9 @@ title: Course Schedule
     </tr>
     <tr>
       <td style="text-align: left">10/15/2021</td>
-      <td style="text-align: left"> <a href="{{ site.baseurl }}{% link files/BME_Zara_APSC1001Presentation.pdf %}" target="_blank"> Biomedical Engineering</a> by <a href="https://www.seas.gwu.edu/jason-m-zara" target="_blank">Prof. Jason M. Zara </a> (confirmed) </td>
+      <td style="text-align: left"> <a href="{{ site.baseurl }}{% link files/BME_Zara_APSC1001Presentation.pdf %}" target="_blank"> Biomedical Engineering</a> by <a href="https://www.seas.gwu.edu/jason-m-zara" target="_blank">Prof. Jason M. Zara </a></td>
       <td style="text-align: left">-<strong>DeepNote:</strong>  <a href="labs/week4-python.html">Next steps with Matplotlib in Python </a><br>-<strong>&mu;Lab:</strong> <a href="{{ site.baseurl }}{% link files/Deck3_RPi3BplusPulseSensor_Module2_10152021.pdf %}" target="_blank"> Raspberry Pi Lab on Heart rate measurements</a><br></td>
-      <td>- <a href="/files/HW3.ipynb" target="_blank">Python HW3</a><br> & <a href="/files/HW3.csv" target="_blank">its CSV-file</a><br>-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdj_xinj4-WeamB5a9x7ewWluyx40591PO7S3tU2stTmZnZhw/viewform?usp=sf_link" target="_blank"> COGS Worksheet for senseHat application &mu;Lab</a></td>
+      <td>- <a href="/files/HW3.ipynb" target="_blank">Python HW3</a><br> & <a href="/files/HW3.csv" target="_blank">its CSV-file</a><br>-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdkjQKGUb6xgFAmPjyG1gsClCjd3FchKz9GgjNBv8yx6T210g/viewform?usp=sf_link" target="_blank"> COGS Worksheet for the senseHat &mu;Lab</a></td>
     </tr>
     <tr>
       <td style="text-align: left">10/20/2021</td>
@@ -61,7 +61,7 @@ title: Course Schedule
       <td style="text-align: left">10/29/2021</td>
       <td style="text-align: left">Computer Science by <a href="https://www.seas.gwu.edu/bhagirath-narahari" target="_blank">Associate Dean Bhagirath Narahari </a> (tentative) </td>
       <td style="text-align: left"><strong>-DeepNote:</strong> Image encryption and decryption in Python<br>-<strong>&mu;Lab:</strong> Raspberry Pi Lab for Image encryption<br>-<a href="/files/path_statement.pdf" target="_blank">Discussion on the Final Project and the PATH Worksheet</a></td>
-      <td>- <a href="/files/HW3.ipynb" target="_blank">Python HW4</a><br> & <a href="/files/HW4.csv" target="_blank">its CSV-file</a><br>- BME-COGS</td>
+      <td>- <a href="/files/HW3.ipynb" target="_blank">Python HW4</a><br> & <a href="/files/HW4.csv" target="_blank">its CSV-file</a><br>-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdkjQKGUb6xgFAmPjyG1gsClCjd3FchKz9GgjNBv8yx6T210g/viewform?usp=sf_link"> COGS Worksheet for the Heart Rate Sensor &mu;Lab</a></td>
     </tr>
     <tr>
       <td style="text-align: left">11/05/2021</td>
