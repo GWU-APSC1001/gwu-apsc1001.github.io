@@ -42,7 +42,7 @@ Of course, it's always difficult to pick the top few out of so many excellent id
 - **Christian Tarrasch (CS1010)** suggested that ultrasound sensors can be used to create accurate 3D models of space, such as bedrooms and living rooms. This could later be implemented in a phone to create accurate 3D models when moving the iPhone around. 🏠
 - **Chloe Truong (CS1010)** mentioned that the ultrasound sensor could be used to detect obstacles in front of unmanned vehicles, which could be applied to devices sent to explore other planets as well as for self driving cars. 🚘
 - **Alessandra Williams (APSC1001)** suggested that the application of ultrasound sensors can be used for automatic breaking as well as parking could be really efficient if using an ultrasonic sensor to implement it.🛑
-- **Ozzy Simpson ()** described the ultrasound sensor as a “tape-less measuring tape” which would make it easier to measure distances.🧰
+- **Ozzy Simpson (CS1010)** described the ultrasound sensor as a “tape-less measuring tape” which would make it easier to measure distances.🧰
 - **Anna-Maria Vargas (APSC1001)** suggested that an application of the ultrasound sensor could be to use it to detect cracks in the foundations of buildings.🏢
 - **Georgette Encinas (APSC1001)** suggested that the ultrasound sensor could be used as a 6 feet apart detector, which would be helpful during Covid when we have to stay at 6 feet apart and the sensor could send a vibration when people are too close.🦠
 
