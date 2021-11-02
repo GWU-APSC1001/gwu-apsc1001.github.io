@@ -24,21 +24,34 @@ Of course, it's always difficult to pick the top few out of so many excellent id
 
 <hr>
 
-### Ultrasound Sensor Lab
-- **Fred Noubieptie Kamgang** suggested that the ultrasound sensor can be used in an open air chicken farm to detect the presence of predators.🐓
-- **Christian Tarrasch** suggested that ultrasound sensors can be used to create accurate 3D models of space, such as bedrooms and living rooms. This could later be implemented in a phone to create accurate 3D models when moving the iPhone around. 🏠
-- **Chloe Truong** mentioned that the ultrasound sensor could be used to detect obstacles in front of unmanned vehicles, which could be applied to devices sent to explore other planets as well as for self driving cars. 🚘
-- **Alessandra Williams** suggested that the application of ultrasound sensors can be used for automatic breaking as well as parking could be really efficient if using an ultrasonic sensor to implement it.🛑
-- **Ozzy Simpson** described the ultrasound sensor as a “tape-less measuring tape” which would make it easier to measure distances.🧰
-- **Anna-Maria Vargas** suggested that an application of the ultrasound sensor could be to use it to detect cracks in the foundations of buildings.🏢
-- **Georgette Encinas** suggested that the ultrasound sensor could be used as a 6 feet apart detector, which would be helpful during Covid when we have to stay at 6 feet apart and the sensor could send a vibration when people are too close.🦠
+### LED microLab
+- **Elaine Ly (CS1010)** suggested that LEDs, whether full spectrum or colored ones, can be used to emit wavelengths that can accelerate the growth of plants. Extending on the demonstration on the Raspberry Pi was timed to turn on and off within a given interval, she suggested that the LED could be turned off every 6, 8, or 12 hours depending on the plant.
+- **Claire Moore (CS1010)** suggested that LEDs can be used as indicators, such as emergency lights flashing or on and off buttons that light up.
+- **Aarifah Ullah (CS1010) and Alast Samimi-Darzi (APSC1001)** thought of an application entailing multilevel parking lots to indicate whether or not a parking spot is vacant. This application can serve as an aide to people with visual or hearing impairment along with proximity sensors.
+- **Tharun Saravanan (CS1010)** suggested blinking LEDs could be used potentially as part of an alarm for a home security system with a Raspberry Pi.
+- **Enzer Kurshid (CS1010)** conceptualized a wearable electronics application that would have adhesive strips with LED lights closely lined up together. These strips can be cut to any size and put on anything surface one pleases. Examples are on a optical frames (such as eye glasses) so a person can see in the dark, on backpacks in case students are walking so that drivers can clearly see
+- **Son Nguyen, Theresa Lee and Diana Zepeda-Benitez (CS1010)** suggested that LEDs can be used in conjunction with motion tracking and object detection applications. For example, one can utilize the LED in conjunction with a sensor and make light sources . For example, an infra-red sensor can be set up to detect the presence and movement of an object and the LED can flash accordingly.
+- **Brendan Jarmusz and Stephanie Berthin (CS1010)** suggested that a Christmas tree or a holiday decoration would be a good implementation of blinking LEDs.
+- **Lowell Pioquinto and Talia Novack (CS1010)** suggested that LED blinking lights could be extremely useful in the use of fire alarm, carbon monoxide or toxin detectors. When an LED flashes it would get the attention to the people in the room/space that will alert them of any serious danger. This would be extremely useful in the case of carbon monoxide leaks, for example a car being left on inside a garage when it is closed.
+
 
 <hr>
 
-### Sensehat Lab
-- **Shantao Xu (CS1010)** said SenseHat could be integrated with sensors to be implanted in the body to continuously collect and display data 🩺
-- **Rhys Chambers (CS1010)** said you can use the SenseHat for military use to create large light up images for satellites 🛰️
-- **Adriana Vidal  (APSC1001) and Stephanie Berthin (CS1010)**, both said you can use the senseHat in order to log temperature and connect it to an app that tells you what is appropriate to wear for that temperature 🌡️
+### Ultrasound Sensor microLab
+- **Fred Noubieptie Kamgang (CS1010)** suggested that the ultrasound sensor can be used in an open air chicken farm to detect the presence of predators.🐓
+- **Christian Tarrasch (CS1010)** suggested that ultrasound sensors can be used to create accurate 3D models of space, such as bedrooms and living rooms. This could later be implemented in a phone to create accurate 3D models when moving the iPhone around. 🏠
+- **Chloe Truong (CS1010)** mentioned that the ultrasound sensor could be used to detect obstacles in front of unmanned vehicles, which could be applied to devices sent to explore other planets as well as for self driving cars. 🚘
+- **Alessandra Williams (APSC1001)** suggested that the application of ultrasound sensors can be used for automatic breaking as well as parking could be really efficient if using an ultrasonic sensor to implement it.🛑
+- **Ozzy Simpson ()** described the ultrasound sensor as a “tape-less measuring tape” which would make it easier to measure distances.🧰
+- **Anna-Maria Vargas (APSC1001)** suggested that an application of the ultrasound sensor could be to use it to detect cracks in the foundations of buildings.🏢
+- **Georgette Encinas (APSC1001)** suggested that the ultrasound sensor could be used as a 6 feet apart detector, which would be helpful during Covid when we have to stay at 6 feet apart and the sensor could send a vibration when people are too close.🦠
+
+<hr>
+
+### Sense HAT microLab
+- **Shantao Xu (CS1010)** suggested that the Sense HAT could be integrated with sensors to be implanted in the body to continuously collect and display data 🩺
+- **Rhys Chambers (CS1010)** suggested Sense HATs for military use, to create large light up images for satellites 🛰️
+- **Adriana Vidal  (APSC1001) and Stephanie Berthin (CS1010)**, both recommended sense Hat in order to log temperature and connect it to an app that tells you what is appropriate to wear for that temperature 🌡️
 - **Ozzy Simpson (CS1010)** said the SenseHat could be used to detect earthquakes. The built in accelerometer could sense excessive movement and alert using the LEDs, ultimately uploading the information to a central database 🗺️ 📈
 - **Henry Ryan  (APSC1001)** said you could integrate the senseHat in a weather balloon to track temperature, humidity and pressure to ultimately make area-based climate change conclusions. 🎈 
 - **Cole Driskell  (CS1010)** also talked about how it can be used in weather balloons to detect environmental changes with increasing altitude. 🌎
