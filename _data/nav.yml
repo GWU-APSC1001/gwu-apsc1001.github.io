@@ -5,8 +5,8 @@
 #- title: Project Gallery
 #  href: finalprojects.html
 
-#- title: Final Project
-#  href: assignments/RaspberryPi-final.html
+- title: Final Project
+  href: assignments/RaspberryPi-final.html
 
 - title: Syllabus
   href: syllabus.html

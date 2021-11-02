@@ -9,7 +9,7 @@ Your final project for CS1010/APSC 1001 is to work with your group and design an
 
 Your group has the option of selecting one project based on the in-class Raspberry Pi or the Python demonstrations.
 
-**Project Specs can be found here:** <a href="/files/RaspberryPi_Project - Descriptions.pdf" target="_blank">View PDF</a> 
+**Project Specs can be found here:** <a href="/files/FInal_RaspberryPi_Python_Project-Descriptions.pdf" target="_blank">View PDF</a> 
 
 <hr>
 
@@ -23,13 +23,14 @@ Your group has the option of selecting one project based on the in-class Raspber
 <!-- Here are some handy project templates you may want at some point. -->
 <!-- - [Final PowerPoint Template](/files/Final_Project_APSC1.pptx) -->
 - [GIT Code Repo](https://github.com/GWU-APSC1001/Fall2021) (Codes created for in-class demonstrations)
-- [PATH Exercise](/files/path_statement.pdf) (Source: Adapted from Participatory Design Toolkit (2019), D-lab, MIT)
-- Python lecture/demo and homework files are already on your DeepNote project pages for your review and reference
+- [Python lecture/demo and homework files](/list/labs.html) Python lecture/demo and homework files are already on your DeepNote project pages for your review and reference
 
 <hr>
 
-When your team is finished with the project, submit it here! 
-
+**Deliverables**
+- [PATH statement](/files/path_statement.pdf) (Source: Adapted from Participatory Design Toolkit (2019), D-lab, MIT)
+- 30 second video of your project solution in MP4-format
+- When your team is finished with the project, submit it here! 
 **Group project submission Link:** <a href="https://docs.google.com/forms/d/e/1FAIpQLScUggkbSIUup4jBr-ZugkM74gv--JVHpIPAhVK6XxChOOzltg/viewform?usp=sf_link" target="_blank">Google Form</a>
 
 Submit by **November 18, 2021**.
