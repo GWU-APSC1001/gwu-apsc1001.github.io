@@ -2,7 +2,7 @@
 title: Final Raspberry Pi Group Project
 narrow: true
 show_profile: true
-due_date: November 18, 2021, 11:59 PM EST
+due_date: November 16, 2021, 11:59 PM EST
 ---
 
 Your final project for CS1010/APSC 1001 is to work with your group and design an appplication that meets one of our project specs. 
@@ -33,7 +33,7 @@ Your group has the option of selecting one project based on the in-class Raspber
 - When your team is finished with the project, submit it here! 
 **Group project submission Link:** <a href="https://docs.google.com/forms/d/e/1FAIpQLScUggkbSIUup4jBr-ZugkM74gv--JVHpIPAhVK6XxChOOzltg/viewform?usp=sf_link" target="_blank">Google Form</a>
 
-Submit by **November 18, 2021**.
+Submit by **November 16, 2021**.
 
 **There will be no exemptions or extensions.**
 
