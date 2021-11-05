@@ -24,6 +24,7 @@ Your group has the option of selecting one project based on the in-class Raspber
 <!-- - [Final PowerPoint Template](/files/Final_Project_APSC1.pptx) -->
 - [GIT Code Repo](https://github.com/GWU-APSC1001/Fall2021) (Codes created for in-class demonstrations)
 - [Python lecture/demo and homework files](/list/labs.html) Python lecture/demo and homework files are already on your DeepNote project pages for your review and reference
+- [Covid Data for Project 3](/list/covid-data.html)
 
 <hr>
 
