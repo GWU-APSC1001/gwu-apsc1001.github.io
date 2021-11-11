@@ -65,32 +65,32 @@ title: Course Schedule
     </tr>
     <tr>
       <td style="text-align: left">11/05/2021</td>
-      <td style="text-align: left">Mechanical and Aerospace Engineering by <a href="https://www.seas.gwu.edu/michael-w-plesniak" target="_blank">Prof. Michael Plesniak</a> and <a href="https://leftwichlab.seas.gwu.edu/" target="_blank">Prof. Megan Leftwich</a> (confirmed) </td>
-      <td style="text-align: left"><strong>-DeepNote:</strong> Python for-loops<br>-<strong>&mu;Lab:</strong> Data acquisition with Raspberry Pi 3B+<br>-<a href="/files/path_statement.pdf" target="_blank">Discussion on the Final Project and the PATH Worksheet</a></td>
+      <td style="text-align: left"><a href="https://www.mae.seas.gwu.edu/" target="_blank">Mechanical and Aerospace Engineering</a>  by <a href="https://www.seas.gwu.edu/michael-w-plesniak" target="_blank">Prof. Michael Plesniak</a> and <a href="https://leftwichlab.seas.gwu.edu/" target="_blank">Prof. Megan Leftwich</a></td>
+      <td style="text-align: left"><strong>-DeepNote:</strong> <a href="labs/week6-python.html">Basic statistics with data gathered in the &mu;Lab </a><br>-<strong>&mu;Lab:</strong> <a href="{{ site.baseurl }}{% link files/Deck3_RPi3BplusCordelessScrewdrivers_Module2_11052021.pdf %}" target="_blank">RPM measurement of a cordless screwdriver using a senseHAT</a></td>
       <td>- <a href="/files/HW5.ipynb" target="_blank">Python HW5</a><br> & <a href="/files/HW5.png" target="_blank">its image-file</a><br>-<a href="https://docs.google.com/forms/d/e/1FAIpQLSf8v9nKiuzENfpDnJrLltiDSWBJwv_1YQYzTAMoCYseUXfH9Q/viewform?usp=sf_link" target="_blank"> COGS Worksheet for the Image Encryption-Decryption &mu;Lab</a></td>
     </tr>
     <tr>
       <td style="text-align: left">11/12/2021</td>
       <td style="text-align: left">Systems Engineering by <a href="https://www2.seas.gwu.edu/~zszajnfa/" target="_blank">Prof. Zoe Szajnfarber</a> and <a href="https://www.jhelvy.com/" target="_blank">Prof. John Paul Helveston</a> (confirmed) </td>
-      <td style="text-align: left">-<a href="labs/week4-emse-lab.html">EMSE Simulation Lab</a><br>-<a href="labs/week4-python.html">Choropleths in Python</a><br>-<a href="files/student_orgs.pdf">Get involved: SEAS Student Orgs</a></td>
-      <td>- Python HW6<br>- MAE-COGS</td>
+      <td style="text-align: left">-<strong>&mu;Lab:</strong> <a href="labs/week7-emse-lab.html">System Dynamics-based COVID-19 Simulation Lab using Vensim software</a><br></td>
+      <td>- In-class final project mentoring sessions<br>- <a href="/files/path_statement.pdf" target="_blank">Discussion on the Final Project and the PATH Worksheet</a></td>
     </tr>
     <tr>
-      <td style="text-align: left">11/15/2021</td>
-      <td style="text-align: center" colspan="3"><strong>Your final Raspberry Pi / Python Group Project should be at "bare minimum" functionality</strong></td>
+      <td style="text-align: left">11/16/2021</td>
+      <td style="text-align: center" colspan="3"><strong>Your final Raspberry Pi / Python Group Project should be completed. <br> You will need to submit all the deliverables using the <a href="https://docs.google.com/forms/d/e/1FAIpQLScUggkbSIUup4jBr-ZugkM74gv--JVHpIPAhVK6XxChOOzltg/viewform">google form</a> provided to your group.</strong></td>
     </tr>
-    <tr>
+<!--     <tr>
       <td style="text-align: left">11/17/2021</td>
       <td style="text-align: center" colspan="3"><strong>Submit your Final Raspberry Pi / Python Group Project</strong></td>
     </tr>
     <tr>
       <td style="text-align: left">11/18/2021</td>
       <td style="text-align: center" colspan="3"><strong>Final group presentations due</strong></td>
-    </tr>
+    </tr> -->
     <tr>
       <td style="text-align: left">11/19/2021</td>
-      <td style="text-align: center" colspan="1"><strong>Parallel Students Panels</strong></td>
-      <td style="text-align: center" colspan="2"><strong>Final Project Demos & Presentations<br>Monday after this course: what to expect!</strong></td> 
+      <td style="text-align: center" colspan="1"><strong>Parallel Students Panels <br><a href="files/student_orgs.pdf">Get involved: SEAS Student Orgs</a> </strong></td>
+      <td style="text-align: center" colspan="2"><strong>Monday after this course: what to expect!</strong></td> 
     </tr>
   </tbody>
 </table>
