@@ -77,7 +77,7 @@ title: Course Schedule
     </tr>
     <tr>
       <td style="text-align: left">11/16/2021</td>
-      <td style="text-align: center" colspan="3"><strong>Your final Raspberry Pi / Python Group Project should be completed. <br> You will need to submit all the deliverables using the <a href="https://docs.google.com/forms/d/e/1FAIpQLScUggkbSIUup4jBr-ZugkM74gv--JVHpIPAhVK6XxChOOzltg/viewform">google form</a> provided to your group.</strong></td>
+      <td style="text-align: center" colspan="3"><strong>Your final Raspberry Pi / Python Group Project should be completed. <br> You will need to submit all the deliverables by 11/16/2021, 11:59 PM using the <a href="https://docs.google.com/forms/d/e/1FAIpQLScUggkbSIUup4jBr-ZugkM74gv--JVHpIPAhVK6XxChOOzltg/viewform">google form.</a> <br></strong>NOTE: Students should note that this group project accounts for 30% of the final grade</td>
     </tr>
 <!--     <tr>
       <td style="text-align: left">11/17/2021</td>
