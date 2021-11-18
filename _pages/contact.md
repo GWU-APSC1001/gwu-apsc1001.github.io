@@ -8,7 +8,7 @@ title: Instruction Team
 Reach out to us anytime on Slack or email! <br> Give us 24 hours to respond to your message.<br> It is generally a good idea to contact the instruction team via email to let us know you will be attending office hours.
 
 ### Instructor
-##### Professor Kartik Bulusu
+##### <a href="https://www.linkedin.com/in/kartik-bulusu-1295261/" target="_blank">Professor Kartik Bulusu </a>
 - Dr. Kartik V. Bulusu is an Associate Research Professor in the Department of Mechanical and Aerospace Engineering (MAE) at The George Washington University (GWU). 
 His research work entails human health and sustainable energy with focus on biofluid mechanics, polymer rheology, low-cost energy technologies and applications of wavelet transforms. 
 Dr. Bulusu is currently developing low-cost ejector technologies refrigeration in disaster-prone regions. 

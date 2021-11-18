@@ -23,7 +23,7 @@ title: Course Schedule
     </tr>
     <tr>
       <td style="text-align: left">9/24/2021</td>
-      <td style="text-align: left">Introduction to APSC1001 by <a href="https://www.seas.gwu.edu/bhagirath-narahari" target="_blank">Associate Dean Bhagirath Narahari </a> and Prof. Kartik Bulusu <br>- <a href="contact.html">Introduction to the Instruction Team</a><br>-<a href="{{ site.baseurl }}{% link files/BulusuIntroAPSC1001_09242021.pdf %}" target="_blank"> What to expect in CS1010 & APSC1001 </a><br></td>
+      <td style="text-align: left">Introduction to APSC1001 by <a href="https://www.seas.gwu.edu/bhagirath-narahari" target="_blank">Associate Dean Bhagirath Narahari </a> and <a href="https://www.linkedin.com/in/kartik-bulusu-1295261/" target="_blank">Prof. Kartik Bulusu </a><br>- <a href="contact.html">Introduction to the Instruction Team</a><br>-<a href="{{ site.baseurl }}{% link files/BulusuIntroAPSC1001_09242021.pdf %}" target="_blank"> What to expect in CS1010 & APSC1001 </a><br></td>
       <td style="text-align: left">-<strong>DeepNote:</strong> <a href="labs/week1-python.html">Python as a Calculator </a><br>-<strong>&mu;Lab:</strong> <a href="{{ site.baseurl }}{% link files/Deck3_IntroRPi3BplusLED_Module2_09242021.pdf %}" target="_blank">Blinking LEDs with Raspberry Pi 3B+</a></td>
       <td style="text-align: left"> End of class: <a href="https://docs.google.com/forms/d/e/1FAIpQLSfN_wKwb7h0_DHXS8olXMRO915r9P1mVut2aueyIXuNXvYFSg/viewform?usp=sf_link" target="_blank">Working Styles Workout</a></td>
     </tr>
@@ -89,8 +89,8 @@ title: Course Schedule
     </tr> -->
     <tr>
       <td style="text-align: left">11/19/2021</td>
-      <td style="text-align: center" colspan="1"><strong>Parallel Students Panels <br><a href="files/student_orgs.pdf">Get involved: SEAS Student Orgs</a> </strong></td>
-      <td style="text-align: center" colspan="2"><strong>Monday after this course: what to expect!</strong></td> 
+      <td style="text-align: center" colspan="3"><strong>- Parallel Students Panels for CS1010 and APSC1001 <br>- <a href="files/student_orgs.pdf">Get involved: SEAS Student Orgs</a></strong><br>- <strong>Monday after this course: what to expect!</strong></td>
+      <!-- <td style="text-align: center" colspan="2"><strong>Monday after this course: what to expect!</strong></td>  -->
     </tr>
   </tbody>
 </table>

@@ -2,8 +2,11 @@
 title: "Week 7: [System Dynamics-based COVID-19 Simulation Lab using Vensim software]"
 ---
 
-**On 11/12/2021:** Download [this Vensim simulation file](/files/APSC - EMSE - Fall 2021.mdl) and open it in Vensim.
+**On 11/12/2021:** 
 
+-- Download [this Vensim simulation file](/files/APSC - EMSE - Fall 2021.mdl) and open it in Vensim. 
+
+-- The instruction team gratefully acknowledges Dr. Dor Hirsh Bar Gai (GWU EMSE PhD'21) for putting together this simulation.
 
 **For future use:** 
 
