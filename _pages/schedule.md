@@ -89,7 +89,7 @@ title: Course Schedule
     </tr> -->
     <tr>
       <td style="text-align: left">11/19/2021</td>
-      <td style="text-align: center" colspan="3"><strong>- Parallel Students Panels for CS1010 and APSC1001 <br>- <a href="files/student_orgs.pdf">Get involved: SEAS Student Orgs</a></strong><br>- <strong>Monday after this course: what to expect!</strong></td>
+      <td style="text-align: center" colspan="3"><strong>- Parallel Students Panels for CS1010 and APSC1001 <br>- Python jeopardy! <br>-<a href="files/student_orgs.pdf">Get involved: SEAS Student Orgs</a></strong><br>- <strong>Monday after this course: what to expect!</strong></td>
       <!-- <td style="text-align: center" colspan="2"><strong>Monday after this course: what to expect!</strong></td>  -->
     </tr>
   </tbody>

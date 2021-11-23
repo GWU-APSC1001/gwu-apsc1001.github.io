@@ -63,7 +63,7 @@ Of course, it's always difficult to pick the top few out of so many excellent id
 
 <hr>
 
-### Heart Rate Sensor Lab
+### Heart Rate Sensor microLab
 - **Rhys Chambers (CS1010)**, suggested the democratization of heart rate sensors to create free health stations stationed around cities that would allow people to access their heart rates and blood pressures without having to buy expensive medical devices.
 - **Charlotte Ketterson (APSC 1001)**,  suggested the implementation of the heart rate sensor into a phone case, for those who need to take their heart rate often but don't wear any sort of smart device. 
 - **Alessandra Williams (APSC 1001)**,  also highlighted the use of heart rate sensors in wearable technology, and the importance of expanding wearable technology beyond watches to include items like rings or necklaces.
@@ -76,7 +76,7 @@ Of course, it's always difficult to pick the top few out of so many excellent id
 
 <hr>
 
-### Image Encryption Lab
+### Image Encryption microLab
 - **Yusef Jawad (APSC 1001)**, suggested a buisness application of applying these concepts to encryption of financial statements in banks, protecting user privacy by ensuring images are not intercepted and viewed by others, and preventing fraud.
 - **Sameen Ahmad (CS1010)**, suggested a security camera application that protects the data it saves using encryption.
 - **AnnaMaria Vargas (APSC 1001)**, suggested an application that sends medical information and documents securely between doctors and hospitals, which would protect patient privacy, as well as protecting other information being sent.
