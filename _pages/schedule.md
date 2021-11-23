@@ -71,7 +71,7 @@ title: Course Schedule
     </tr>
     <tr>
       <td style="text-align: left">11/12/2021</td>
-      <td style="text-align: left">Systems Engineering by <a href="https://www2.seas.gwu.edu/~zszajnfa/" target="_blank">Prof. Zoe Szajnfarber</a> and <a href="https://www.jhelvy.com/" target="_blank">Prof. John Paul Helveston</a> (confirmed) </td>
+      <td style="text-align: left">Systems Engineering by <a href="https://www2.seas.gwu.edu/~zszajnfa/" target="_blank">Prof. Zoe Szajnfarber</a> and <a href="https://www.jhelvy.com/" target="_blank">Prof. John Paul Helveston</a></td>
       <td style="text-align: left">-<strong>&mu;Lab:</strong> <a href="labs/week7-emse-lab.html">System Dynamics-based COVID-19 Simulation Lab using Vensim software</a><br></td>
       <td>- In-class final project mentoring sessions<br>- <a href="/files/path_statement.pdf" target="_blank">Discussion on the Final Project and the PATH Worksheet</a></td>
     </tr>
@@ -89,8 +89,7 @@ title: Course Schedule
     </tr> -->
     <tr>
       <td style="text-align: left">11/19/2021</td>
-      <td style="text-align: center" colspan="3"><strong>- Parallel Students Panels for CS1010 and APSC1001 <br>- Python jeopardy! <br>-<a href="files/student_orgs.pdf">Get involved: SEAS Student Orgs</a></strong><br>- <strong>Monday after this course: what to expect!</strong></td>
-      <!-- <td style="text-align: center" colspan="2"><strong>Monday after this course: what to expect!</strong></td>  -->
+      <td style="text-align: center" colspan="3"><strong>- <a href="labs/week8-offloading.html">Parallel Students Panels for CS1010 and APSC1001</a><br>- <strong>Compete in a Python Jeopardy!</strong><br>- <a href="files/student_orgs.pdf">Get involved: SEAS Student Orgs</a></strong><br>- <strong>Monday after this course: what to expect!</strong></td>
     </tr>
   </tbody>
 </table>

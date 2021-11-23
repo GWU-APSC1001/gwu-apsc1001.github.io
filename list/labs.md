@@ -3,7 +3,7 @@ title: Labs & Lectures
 permalink: list/labs.html
 ---
 **Fall 2021 microLabs: [Python programming using DeepNote] & [Raspberry Pi exercises]**
-- Will be updated as the course progresses
+<!--- Will be updated as the course progresses -->
 {% for lab in site.labs %}
 - [{{ lab.title }}]({{ site.baseurl }}{{ lab.url }})
 {% endfor %}
