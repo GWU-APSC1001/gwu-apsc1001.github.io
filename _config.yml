@@ -67,6 +67,14 @@ defaults:
       show_profile: true
       layout: defaults/page
       narrow: true
+
+  -
+    scope:
+      path: "_fall2020_labs"
+    values:
+      show_profile: true
+      layout: defaults/page
+      narrow: true
   
   -
     scope:
