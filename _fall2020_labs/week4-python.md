@@ -4,7 +4,7 @@ title: "Module 4: Python"
 
 **Goal:** This lab will show you how to make a choropleth in Python.
 
-**Downloadable Resources:** <a href="/files/python_week4.pdf" target="_blank">Lecture Slides</a>
+**Downloadable Resources:** <a href="{{ site.baseurl }}/files/python_week4.pdf" target="_blank">Lecture Slides</a>
 
 <hr/>
 

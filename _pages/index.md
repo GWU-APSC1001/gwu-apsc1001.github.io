@@ -18,7 +18,7 @@ Got too many ~things~ to keep track of for online classes? Not to worry, this pa
 - **[Blackboard]**: Class will have access to *Blackboard Collaborate Ultra*, available through your **[GW Blackboard Portal](https://blackboard.gwu.edu/)**.
     - Link: [https://blackboard.gwu.edu/](https://blackboard.gwu.edu/)
 - **[GW SEAS VPN]**: Download the **[GW SEAS VPN](https://www.gwu.edu/~virtual/downloads/anyconnect.cfm)**
-    - <a href="{{ site.baseurl }}{% link files/gwu_vpn.pdf %}" target="_blank"> Installation instructions </a>
+    - <a href="{{ site.baseurl }}/files/gwu_vpn.pdf" target="_blank"> Installation instructions </a>
     - *NOTE* that you only have to install this once! After the VPN is installed, all you have to do is connect
 - **[Raspberry Pi 3B+ code repository]**: Public git repository can be found **[here](https://github.com/GWU-APSC1001/Fall2021)** 
     - **Terminal command to download:** *git clone https://github.com/GWU-APSC1001/Fall2021.git*
@@ -26,10 +26,10 @@ Got too many ~things~ to keep track of for online classes? Not to worry, this pa
 - **[Python programming]**: Sign up for a free account on **[DeepNote for Python programming](https://deepnote.com/)** 
     - Use your *gwmail.gwu.edu* email for this account. 
     - *NOTE:* You will need this to collaborate with your group.
-    - Follow our instructions to create an account on <a href="{{ site.baseurl }}{% link files/DeepNote_Onboarding_Students.pdf %}" target="_blank">DeepNote - a cloud-based collaboration platform for Python code</a> 
+    - Follow our instructions to create an account on <a href="{{ site.baseurl }}/files/DeepNote_Onboarding_Students.pdf" target="_blank">DeepNote - a cloud-based collaboration platform for Python code</a> 
 - **[Vensim system modeling software}**
     - Download and install **Vensim** using the link, <a href="https://vensim.com/free-download/" target="_blank">https://vensim.com/free-download/</a>
-    - <a href="{{ site.baseurl }}{% link files/vensim_install.pdf %}" target="_blank"> Installation instructions </a>
+    - <a href="{{ site.baseurl }}/files/vensim_install.pdf" target="_blank"> Installation instructions </a>
 
 
 ### Class Preview

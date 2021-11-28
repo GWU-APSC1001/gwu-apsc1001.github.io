@@ -4,7 +4,7 @@ title: "Module 3: Python"
 
 **Goal:** This lab will dive deeper into data manipulation with `pandas`.
 
-<!-- **Downloadable Resources:** <a href="/files/python_week2.pdf" target="_blank">Lecture Slides</a> -->
+<!-- **Downloadable Resources:** <a href="{{ site.baseurl }}/files/python_week2.pdf" target="_blank">Lecture Slides</a> -->
 
 <hr/>
 

@@ -9,7 +9,7 @@ Your final project for CS1010/APSC 1001 is to work with your group and design an
 
 Your group has the option of selecting one project based on the in-class Raspberry Pi or the Python demonstrations.
 
-**Project Specs can be found here:** <a href="/files/FInal_RaspberryPi_Python_Project-Descriptions.pdf" target="_blank">View PDF</a> 
+**Project Specs can be found here:** <a href="{{ site.baseurl }}/files/FInal_RaspberryPi_Python_Project-Descriptions.pdf" target="_blank">View PDF</a> 
 
 <hr>
 

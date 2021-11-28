@@ -4,13 +4,13 @@ title: Archived Fall 2020 Student Projects using Thunkable App Builder
 layout: defaults/page
 narrow: true
 images:
-  - /images/g1.png
-  - /images/g2.png
-  - /images/g3.png
-  - /images/g4.png
-  - /images/g5.png
-  - /images/g6.png
-  - /images/g7.png
+  - images/g1.png
+  - images/g2.png
+  - images/g3.png
+  - images/g4.png
+  - images/g5.png
+  - images/g6.png
+  - images/g7.png
 captions:
   - by Eric Holm, Brendan Humphrey, Ryan Rafati, and Mohamed Al-Shizawi
   - by Isaac Bilsel, Rigel Brown, and Jack Palaian
@@ -37,7 +37,7 @@ links:
   - https://x.thunkable.com/projectPage/5fc9462642f6870012dae087
 ---
 
-Students were tasked with building a Thunkable app to <a href="/files/thunkable_final.pdf" target="_blank">meet one of these specs</a>. Great work, everyone!
+Students were tasked with building a Thunkable app to <a href="{{ site.baseurl }}/files/thunkable_final.pdf" target="_blank">meet one of these specs</a>. Great work, everyone!
 
 <hr>
 
@@ -71,10 +71,10 @@ Students were tasked with building a Thunkable app to <a href="/files/thunkable_
 </div>
 
 ### Group Presentations
-- <a href="/files/g1_pres.pdf" target="_blank">Group 1's Presentation</a>
-- <a href="/files/g2_pres.pdf" target="_blank">Group 2's Presentation</a>
-- <a href="/files/g3_pres.pdf" target="_blank">Group 3's Presentation</a>
-- <a href="/files/g4_pres.pdf" target="_blank">Group 4's Presentation</a>
-- <a href="/files/g5_pres.pdf" target="_blank">Group 5's Presentation</a>
-- <a href="/files/g6_pres.pdf" target="_blank">Group 6's Presentation</a>
-- <a href="/files/g7_pres.pdf" target="_blank">Group 7's Presentation</a>
+- <a href="{{ site.baseurl }}/files/g1_pres.pdf" target="_blank">Group 1's Presentation</a>
+- <a href="{{ site.baseurl }}/files/g2_pres.pdf" target="_blank">Group 2's Presentation</a>
+- <a href="{{ site.baseurl }}/files/g3_pres.pdf" target="_blank">Group 3's Presentation</a>
+- <a href="{{ site.baseurl }}/files/g4_pres.pdf" target="_blank">Group 4's Presentation</a>
+- <a href="{{ site.baseurl }}/files/g5_pres.pdf" target="_blank">Group 5's Presentation</a>
+- <a href="{{ site.baseurl }}/files/g6_pres.pdf" target="_blank">Group 6's Presentation</a>
+- <a href="{{ site.baseurl }}/files/g7_pres.pdf" target="_blank">Group 7's Presentation</a>

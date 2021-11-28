@@ -6,7 +6,7 @@ title: "Module 1: Thunkable"
 
 **Downloadable Resources:** 
 - ["Class" image from the Noun Project](/files/noun_class.png) (click the link, then right-click and "Save As")
-- <a href="/files/thunkable_week1.pdf" target="_blank">Lecture Slides</a>
+- <a href="{{ site.baseurl }}/files/thunkable_week1.pdf" target="_blank">Lecture Slides</a>
 
 <hr/>
 

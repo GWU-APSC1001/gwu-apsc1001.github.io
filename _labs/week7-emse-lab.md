@@ -10,7 +10,7 @@ title: "Week 7: [System Dynamics-based COVID-19 Simulation Lab using Vensim soft
 
 **For future use:** 
 
--- Please install the Vensim software on your computer. <a href="/files/vensim_install.pdf" target="_blank">Check out our installation instructions for help.</a>
+-- Please install the Vensim software on your computer. <a href="{{ site.baseurl }}/files/vensim_install.pdf" target="_blank">Check out our installation instructions for help.</a>
 
 -- If you want, you can follow along with the **[Lecture slides](/files/emse.pdf)**.
 

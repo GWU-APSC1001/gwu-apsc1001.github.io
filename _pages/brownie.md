@@ -12,15 +12,13 @@ narrow: true
 <!--- - [Assignment 2](#assignment-2) -->
 <!--- - [Assignment 1](#assignment-1) -->
 
-<a name="headers"/>
-
 
 
 <hr>
 
 APSC 1001 has a longstanding tradition of recognizing student participation, engagement, and creativity with "brownie points". Here, we are featuring some exciting ideas presented by students on how they thought to apply the technology seen in lab, beyond the classroom!
 
-Of course, it's always difficult to pick the top few out of so many excellent ideas -- [we](/contact.html) love seeing your hard work, even if it isn't showcased here!
+Of course, it's always difficult to pick the top few out of so many excellent ideas -- [we](contact.html) love seeing your hard work, even if it isn't showcased here!
 
 <hr>
 
@@ -95,7 +93,7 @@ Of course, it's always difficult to pick the top few out of so many excellent id
 <!--- 
 ### Final Project
 
-After the final project presentations, both the [instruction team](/contact.html) and the students voted on their favorite app.
+After the final project presentations, both the [instruction team](contact.html) and the students voted on their favorite app.
 
 - **INSTRUCTION TEAM AWARD:** <a href="https://x.thunkable.com/projectPage/5fc9459da34a4a001313768a" target="_blank">Group 3's Quarantine Quality app</a> made by Jack Brookshaw, Kaj Boeri, and Ben Chapman
 - **STUDENT CHOICE AWARD:** <a href="https://x.thunkable.com/projectPage/5fc9462642f6870012dae087" target="_blank">Group 7's Crowd Alert app</a> made by Lucas Mah, Lily Samoyan, and Joachim Santiago

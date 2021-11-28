@@ -4,7 +4,7 @@ title: "Module 2: Python"
 
 **Goal:** This lab will teach you how to graph data using `matplotlib` and `pandas` in Python.
 
-**Downloadable Resources:** <a href="/files/python_week2.pdf" target="_blank">Lecture Slides</a>
+**Downloadable Resources:** <a href="{{ site.baseurl }}/files/python_week2.pdf" target="_blank">Lecture Slides</a>
 
 <hr/>
 
