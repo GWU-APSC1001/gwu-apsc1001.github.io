@@ -9,7 +9,7 @@ narrow: true
 
 Got too many ~things~ to keep track of for online classes? Not to worry, this page is your one-stop shop for CS 1010 and APSC 1001.
 - Below is a link to the (virtual) course from Fall 2020 to get you excited!
-    - Link: [APSC1001 in Fall 2020](https://searri.github.io/apsc1001-fall2020/finalprojects.html) 
+    - Link: [APSC1001 in Fall 2020](https://gwu-apsc1001.github.io/apsc1001-fall2020/finalprojects.html) 
 
 ### Important Links for Fall 2021
 - **[Slack group]**: Join the course's **[Slack Workspace](https://apsc1001seasgwu.slack.com/)**. Here's where you'll hear class announcements, get questions answered, or just get to know your classmates.
